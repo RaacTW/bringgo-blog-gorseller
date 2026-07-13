@@ -25,7 +25,9 @@ text{font-family:Arial,Helvetica,sans-serif}
 def esc(s): return html.escape(str(s), quote=True)
 
 def wrap(title, sub, inner, ch):
-    H=88+ch+38
+    # dikey ritim: ust padding ~ alt padding. Icerik 88'de baslar; kaynak satiri icerikten sonra 44px bosluk.
+    fy=88+ch+44        # kaynak satiri temel cizgisi
+    H=fy+24            # alt padding
     p=['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" role="img">'%(W,H,W,H)]
     p.append('<title>%s</title>'%esc(title)); p.append(STYLE)
     p.append('<rect x="1" y="1" width="%d" height="%d" rx="18" class="card"/>'%(W-2,H-2))
@@ -33,8 +35,8 @@ def wrap(title, sub, inner, ch):
     p.append('<text x="44" y="45" font-size="21" class="tt">%s</text>'%esc(title))
     p.append('<text x="44" y="67" font-size="13" class="ts">%s</text>'%esc(sub))
     p.append('<g transform="translate(0,88)">%s</g>'%inner)
-    p.append('<text x="28" y="%d" font-size="11.5" class="tf">%s</text>'%(H-16, esc(SRC)))
-    p.append('<text x="%d" y="%d" text-anchor="end" font-size="12" class="tb">BringGo Ship</text>'%(W-28,H-16))
+    p.append('<text x="28" y="%d" font-size="11.5" class="tf">%s</text>'%(fy, esc(SRC)))
+    p.append('<text x="%d" y="%d" text-anchor="end" font-size="12" class="tb">BringGo Ship</text>'%(W-28,fy))
     p.append('</svg>')
     return ''.join(p)
 
