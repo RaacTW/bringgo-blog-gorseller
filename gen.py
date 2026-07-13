@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # BringGo blog: yaziya ozel, dark-mode uyumlu SVG infografik ureteci.
-import html, os
+import html, os, re
 
 W=720; PADX=28; CX=28; CW=664
 STYLE='''<style>
@@ -23,6 +23,12 @@ text{font-family:Arial,Helvetica,sans-serif}
 </style>'''
 
 def esc(s): return html.escape(str(s), quote=True)
+def _capw(m):
+    w=m.group(0)
+    if w.isupper() or any(c.isupper() for c in w[1:]) or any(c.isdigit() for c in w): return w
+    f=w[0]; f='İ' if f=='i' else f.upper()
+    return f+w[1:]
+def titlecase(s): return re.sub(r"[A-Za-zÀ-ÿğıİşçöüĞŞÇÖÜ]+", _capw, s)
 
 def wrap(title, sub, inner, ch):
     # dikey ritim: ust padding ~ alt padding. Icerik 88'de baslar; kaynak satiri icerikten sonra 44px bosluk.
@@ -173,7 +179,7 @@ D = {
 OUT=os.path.dirname(os.path.abspath(__file__))
 count=0
 for slug,entry in D.items():
-    title,sub,kind=entry[0],entry[1],entry[2]
+    title,sub,kind=titlecase(entry[0]),entry[1],entry[2]
     if kind=="cost": inner,ch=costlist(entry[3])
     elif kind=="carrier": inner,ch=carriers(entry[3])
     elif kind=="status": inner,ch=statusrows(entry[3])
