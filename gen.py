@@ -7,7 +7,7 @@ STYLE='''<style>
 text{font-family:Arial,Helvetica,sans-serif}
 .card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
 .row{fill:#f5f8f7}.pill{fill:#E1F5EE}.hi{fill:#1f9d5f}.mut{fill:#eef1f0}
-.acc{fill:#12876A}.circ{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}
+.acc{fill:#12876A}.circ{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}.ln{stroke:#dbe6e1}
 .tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
 .tv{fill:#0F6E56;font-weight:bold}.tm{fill:#5b6b66;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
 .tf{fill:#8a9691}.tb{fill:#12876A;font-weight:bold}.big{fill:#0F3D33;font-weight:bold}
@@ -19,7 +19,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 .tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
 .tv{fill:#6fe0b0}.tm{fill:#9db3a9}.tw{fill:#ffffff}
 .tf{fill:#6d8279}.tb{fill:#57d3a3}.big{fill:#d7f2e6}
-.trd{fill:#f0a99e}.tam{fill:#e6c281}.ttl{fill:#6fe0b0}}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ttl{fill:#6fe0b0}.ln{stroke:#31423c}}
 </style>'''
 
 def esc(s): return html.escape(str(s), quote=True)
@@ -80,7 +80,7 @@ def statusrows(rows):
 def stepflow(steps):
     h=[]; y=18; n=len(steps); step=56
     # baglanti cizgisi
-    h.append('<line x1="46" y1="%d" x2="46" y2="%d" stroke="#cfe0d9" stroke-width="2"/>'%(18, 18+(n-1)*step))
+    h.append('<line x1="46" y1="%d" x2="46" y2="%d" stroke-width="2" class="ln"/>'%(18, 18+(n-1)*step))
     for i,(label,sub) in enumerate(steps):
         cy=y+i*step
         h.append('<circle cx="46" cy="%d" r="15" class="circ"/>'%cy)
@@ -93,10 +93,10 @@ def stats(figs, note=""):
     h=[]; nf=len(figs); colw=CW/nf
     for i,(val,lab) in enumerate(figs):
         cx=28+colw*i+colw/2
-        h.append('<text x="%.0f" y="52" text-anchor="middle" font-size="30" class="big">%s</text>'%(cx, esc(val)))
-        h.append('<text x="%.0f" y="78" text-anchor="middle" font-size="13" class="ts">%s</text>'%(cx, esc(lab)))
+        h.append('<text x="%.0f" y="50" text-anchor="middle" font-size="26" class="big">%s</text>'%(cx, esc(val)))
+        h.append('<text x="%.0f" y="76" text-anchor="middle" font-size="13" class="ts">%s</text>'%(cx, esc(lab)))
         if i>0:
-            h.append('<line x1="%.0f" y1="24" x2="%.0f" y2="84" stroke="#e4ebe7" stroke-width="1"/>'%(28+colw*i,28+colw*i))
+            h.append('<line x1="%.0f" y1="24" x2="%.0f" y2="82" stroke-width="1" class="ln"/>'%(28+colw*i,28+colw*i))
     hh=104
     if note:
         h.append('<rect x="28" y="%d" width="664" height="34" rx="10" class="pill"/>'%hh)
@@ -104,16 +104,16 @@ def stats(figs, note=""):
     return ''.join(h), hh
 
 def compare2(colA, colB, rows, winB=True):
-    h=[]; xa=396; xb=572; y=0
-    h.append('<text x="%d" y="14" text-anchor="middle" font-size="14" class="tt">%s</text>'%(xa, esc(colA)))
-    h.append('<rect x="%d" y="0" width="150" height="24" rx="12" class="hi"/>'%(xb-75-6) if winB else '')
-    h.append('<text x="%d" y="14" text-anchor="middle" font-size="14" class="%s">%s</text>'%(xb, 'tw' if winB else 'tt', esc(colB)))
-    y=34
+    h=[]; xa=398; xb=574; y=0
+    h.append('<text x="%d" y="16" text-anchor="middle" font-size="14.5" class="tl2" font-weight="bold">%s</text>'%(xa, esc(colA)))
+    h.append('<text x="%d" y="16" text-anchor="middle" font-size="14.5" class="tb" font-weight="bold">%s</text>'%(xb, esc(colB)))
+    h.append('<line x1="28" y1="28" x2="692" y2="28" stroke-width="1" class="ln"/>')
+    y=40
     for factor,a,b in rows:
         h.append('<rect x="28" y="%d" width="664" height="38" rx="9" class="row"/>'%y)
         h.append('<text x="46" y="%d" font-size="13.5" class="ts">%s</text>'%(y+24, esc(factor)))
         h.append('<text x="%d" y="%d" text-anchor="middle" font-size="13.5" class="tl2">%s</text>'%(xa, y+24, esc(a)))
-        h.append('<text x="%d" y="%d" text-anchor="middle" font-size="13.5" class="tv">%s</text>'%(xb, y+24, esc(b)))
+        h.append('<text x="%d" y="%d" text-anchor="middle" font-size="13.5" class="tv" font-weight="bold">%s</text>'%(xb, y+24, esc(b)))
         y+=44
     return ''.join(h), y-6
 
@@ -142,7 +142,7 @@ D = {
 "how-to-sell-amazon-mexico-from-us": ("Selling on Amazon Mexico: NARF vs FBA","Two ways from the US","cmp",("NARF","FBA Mexico",[("Inventory","US","In Mexico"),("Who imports","Customer","You, bulk"),("RFC needed","No","Yes"),("Delivery","5-9 days","Local Prime"),("Per-unit fee","Higher","Lower"),("Best for","Testing","Steady volume")])),
 "cuanto-cuesta-importar-eeuu-mexico": ("Cuánto cuesta importar a México","Componentes del costo fiscal · 2026","cost",[("Agente aduanal","3.500-15.000 MXN","n"),("Arancel · origen EE.UU. (T-MEC)","0% · T-MEC","hi"),("IVA","16%","n"),("DTA · derecho de trámite","~362 MXN","n"),("Prevalidación","~238 MXN","n"),("Flete (LTL / FTL)","Variable · cotización","mut")]),
 "productos-prohibidos-importar-mexico": ("Qué no puedes importar a México","Prohibido · restringido · 2026","status",[("Vapeadores y cigarros electrónicos","Prohibido","pro","Reforma 2026"),("Ropa y calzado usados","Prohibido","pro","SAT · ANAM"),("Armas y municiones","Restringido","res","SEDENA"),("Alimentos y agropecuarios","Restringido","res","SENASICA"),("Medicamentos y cosméticos","Restringido","res","COFEPRIS"),("Mayoría de retail","Etiqueta NOM","lbl","NOM-050/051")]),
-"nearshoring-mexico-beneficios": ("Nearshoring en México","Inversión extranjera directa","stat",[("~41 mil M$","IED en 2025"),("23.591 M$","Récord 1T 2026"),("~58%","de la IED es nearshoring")],"Origen EE.UU. = 0% de arancel bajo el T-MEC"),
+"nearshoring-mexico-beneficios": ("Nearshoring en México","Inversión extranjera directa · 2026","stat",[("~$41 B","IED en 2025"),("$23,6 B","Récord 1T 2026"),("~58%","es nearshoring")],"Origen EE.UU. entra con 0% de arancel bajo el T-MEC"),
 "abd-meksika-sinir-otesi-lojistik": ("ABD-Meksika sınır ötesi lojistik","ABD'den Meksika'ya · 5 adım","step",[("ABD deposundan çıkış","Belgeler kontrol"),("ABD ihracatı","Formaliteler"),("Sınır transferi","Drayage"),("Gümrükleme","Pedimento · ışık"),("Teslimat","Monterrey 1-2 gün")]),
 "amazon-meksika-satis-rehberi": ("NARF mı FBA Meksika mı?","ABD'den iki satış yolu","cmp",("NARF","FBA Meksika",[("Stok","ABD'de","Meksika'da"),("İthalatçı","Müşteri","Siz, toplu"),("RFC gerekir","Hayır","Evet"),("Teslimat","5-9 gün","Yerel Prime"),("Birim ücret","Yüksek","Düşük"),("En uygun","Test","Düzenli hacim")])),
 "meksika-pazarina-giris-rehberi": ("Meksika pazarına giriş","Yol haritası · 4 adım","step",[("Kanal seç","Amazon / ML / B2B"),("Yasal kurulum","RFC + gümrük müşaviri"),("Lojistik","ABD'de konsolidasyon"),("Fiyatlama","IVA + rekabet")]),
@@ -163,7 +163,7 @@ D = {
 "logistica-inversa-devoluciones-mexico": ("Una devolución desde México","Uno de tres caminos","dec",[("Reingresar en México","Vendible al stock local"),("Regresar a EE.UU.","En un lote consolidado"),("Desechar localmente","Dañado o de bajo valor")]),
 "vender-en-estados-unidos-desde-mexico": ("Vender en EE.UU. desde México","Hoja de ruta · 4 pasos","step",[("Elige un canal","Amazon USA / B2B"),("Aduana CBP","T-MEC · origen mexicano"),("Logística","Almacén en EE.UU."),("Precio","Aranceles + canal")]),
 "vender-mercado-libre-guia": ("Mercado Envíos vs Full","Logística en Mercado Libre","cmp",("Mercado Envíos","Envíos Full",[("Inventario","Tú lo guardas","En centros ML"),("Preparación","Tú","Mercado Libre"),("Entrega","Estándar","Más rápida"),("Posición","Normal","Favorecida"),("Stock local","No","Sí")])),
-"nearshoring-meksika-turk-firmalari": ("Nearshoring ve Meksika","Yatırım ve teşvikler · 2026","stat",[("~41 milyar $","2025 DYY"),("23.591 milyon $","2026 1Ç rekor"),("%41-91","Plan México amortisman")],"Meksika menşeli üretim = ABD'ye T-MEC ile %0 tarife"),
+"nearshoring-meksika-turk-firmalari": ("Nearshoring ve Meksika","Yatırım ve teşvikler · 2026","stat",[("41 milyar $","2025 DYY"),("23,6 milyar $","2026 1Ç rekor"),("%41-91","Plan México")],"Meksika menşeli üretim, ABD'ye T-MEC ile %0 tarifeyle girer"),
 "meksika-yasakli-urunler": ("Meksika'ya gönderilemeyenler","Yasaklı · kısıtlı · 2026","status",[("Vape ve elektronik sigara","Yasaklı","pro","2026 reformu"),("Kullanılmış giysi (ticari)","Yasaklı","pro","SAT · ANAM"),("Silah ve mühimmat","Kısıtlı","res","SEDENA"),("Gıda ve tarım ürünleri","Kısıtlı","res","SENASICA"),("İlaç ve kozmetik","Kısıtlı","res","COFEPRIS"),("Çoğu perakende ürün","NOM etiketi","lbl","NOM-050/051")]),
 "meksika-gonderim-maliyeti": ("Meksika'ya gönderim maliyeti","Mali maliyet kalemleri · 2026","cost",[("Gümrük müşaviri","3.500-15.000 MXN","n"),("Gümrük vergisi · ABD menşe","%0 · USMCA","hi"),("IVA (KDV)","%16","n"),("DTA · işlem harcı (T-MEC)","~362 MXN","n"),("Prevalidación","~238 MXN","n"),("Navlun (LTL / FTL)","Değişken · teklif","mut")]),
 }
