@@ -23,13 +23,17 @@ text{font-family:Arial,Helvetica,sans-serif}
 </style>'''
 
 def esc(s): return html.escape(str(s), quote=True)
-def _capw(m):
-    w=m.group(0); i=m.start()
-    if i>0 and m.string[i-1] in "'’ʼ`": return w  # Turkce ek (Meksika'ya, ABD'den) buyutulmez
-    if w.isupper() or any(c.isupper() for c in w[1:]) or any(c.isdigit() for c in w): return w
-    f=w[0]; f='İ' if f=='i' else f.upper()
-    return f+w[1:]
-def titlecase(s): return re.sub(r"[A-Za-zÀ-ÿğıİşçöüĞŞÇÖÜ]+", _capw, s)
+TR_SLUGS={"abd-meksika-sinir-otesi-lojistik","amazon-meksika-satis-rehberi","meksika-pazarina-giris-rehberi","meksika-iade-yonetimi","meksika-son-mil-teslimat","meksika-dropshipping-rehberi","meksika-yasakli-urunler","nearshoring-meksika-turk-firmalari","meksika-gonderim-maliyeti"}
+def titlecase(s, tr=False):
+    def cap(m):
+        w=m.group(0); i=m.start()
+        if i>0 and m.string[i-1] in "'’ʼ`": return w  # Turkce ek (Meksika'ya) buyutulmez
+        if w.isupper() or any(c.isupper() for c in w[1:]) or any(c.isdigit() for c in w): return w
+        f=w[0]
+        if f=='i': f='İ' if tr else 'I'   # TR: i->İ, ES/EN: i->I
+        else: f=f.upper()
+        return f+w[1:]
+    return re.sub(r"[A-Za-zÀ-ÿğıİşçöüĞŞÇÖÜ]+", cap, s)
 
 def wrap(title, sub, inner, ch):
     # dikey ritim: ust padding ~ alt padding. Icerik 88'de baslar; kaynak satiri icerikten sonra 44px bosluk.
@@ -180,7 +184,7 @@ D = {
 OUT=os.path.dirname(os.path.abspath(__file__))
 count=0
 for slug,entry in D.items():
-    title,sub,kind=titlecase(entry[0]),entry[1],entry[2]
+    title,sub,kind=titlecase(entry[0], slug in TR_SLUGS),entry[1],entry[2]
     if kind=="cost": inner,ch=costlist(entry[3])
     elif kind=="carrier": inner,ch=carriers(entry[3])
     elif kind=="status": inner,ch=statusrows(entry[3])
