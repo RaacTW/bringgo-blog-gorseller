@@ -24,7 +24,8 @@ text{font-family:Arial,Helvetica,sans-serif}
 
 def esc(s): return html.escape(str(s), quote=True)
 def _capw(m):
-    w=m.group(0)
+    w=m.group(0); i=m.start()
+    if i>0 and m.string[i-1] in "'’ʼ`": return w  # Turkce ek (Meksika'ya, ABD'den) buyutulmez
     if w.isupper() or any(c.isupper() for c in w[1:]) or any(c.isdigit() for c in w): return w
     f=w[0]; f='İ' if f=='i' else f.upper()
     return f+w[1:]
