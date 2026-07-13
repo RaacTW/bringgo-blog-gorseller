@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="272" viewBox="0 0 720 272" role="img"><title>Nearshoring ve Meksika</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.row{fill:#f5f8f7}.pill{fill:#E1F5EE}.hi{fill:#1f9d5f}.mut{fill:#eef1f0}
+.acc{fill:#12876A}.circ{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
+.tv{fill:#0F6E56;font-weight:bold}.tm{fill:#5b6b66;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
+.tf{fill:#8a9691}.tb{fill:#12876A;font-weight:bold}.big{fill:#0F3D33;font-weight:bold}
+.trd{fill:#a3392c;font-weight:bold}.tam{fill:#8a5a12;font-weight:bold}.ttl{fill:#0F6E56;font-weight:bold}
+@media (prefers-color-scheme:dark){
+.card{fill:#16211e;stroke:#2c3a35}
+.row{fill:#1d2b27}.pill{fill:#123a2e}.hi{fill:#1f9d5f}.mut{fill:#28352f}
+.acc{fill:#2fae7e}.circ{fill:#2fae7e}.rd{fill:#3a201c}.am{fill:#352a15}.tl{fill:#123a2e}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
+.tv{fill:#6fe0b0}.tm{fill:#9db3a9}.tw{fill:#ffffff}
+.tf{fill:#6d8279}.tb{fill:#57d3a3}.big{fill:#d7f2e6}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ttl{fill:#6fe0b0}}
+</style><rect x="1" y="1" width="718" height="270" rx="18" class="card"/><rect x="28" y="28" width="4" height="28" rx="2" class="acc"/><text x="44" y="45" font-size="21" class="tt">Nearshoring ve Meksika</text><text x="44" y="67" font-size="13" class="ts">Yatırım ve teşvikler · 2026</text><g transform="translate(0,88)"><text x="139" y="52" text-anchor="middle" font-size="30" class="big">~41 milyar $</text><text x="139" y="78" text-anchor="middle" font-size="13" class="ts">2025 DYY</text><text x="360" y="52" text-anchor="middle" font-size="30" class="big">23.591 milyon $</text><text x="360" y="78" text-anchor="middle" font-size="13" class="ts">2026 1Ç rekor</text><line x1="249" y1="24" x2="249" y2="84" stroke="#e4ebe7" stroke-width="1"/><text x="581" y="52" text-anchor="middle" font-size="30" class="big">%41-91</text><text x="581" y="78" text-anchor="middle" font-size="13" class="ts">Plan México amortisman</text><line x1="471" y1="24" x2="471" y2="84" stroke="#e4ebe7" stroke-width="1"/><rect x="28" y="104" width="664" height="34" rx="10" class="pill"/><text x="360" y="126" text-anchor="middle" font-size="13" class="tv">Meksika menşeli üretim = ABD&#x27;ye T-MEC ile %0 tarife</text></g><text x="28" y="256" font-size="11.5" class="tf">Kaynak: SAT · DOF · trade.gov · 2026</text><text x="692" y="256" text-anchor="end" font-size="12" class="tb">BringGo Ship</text></svg>
