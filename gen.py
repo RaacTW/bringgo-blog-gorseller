@@ -206,7 +206,7 @@ D = {
 "meksika-sat-cfdi": ("Meksika SAT ve CFDI","Satıcının bilmesi gereken · 2026","status",[("CFDI 4.0","Zorunlu e-fatura","lbl","SAT · eşik yok"),("Carta Porte","Taşımada zorunlu","res","Federal taşıma"),("2026 reformu","Gerçeklik denetimi","pro","SAT"),("Uyumsuzluk","Ceza %5-10","pro","Fatura değeri")]),
 "usmca-2026-review-shippers": ("USMCA 2026 review","Scenarios for shippers","dec",[("Status quo","Duty-free for qualifying goods, as today"),("Tighter rules","Stricter origin proof, most expected"),("Reversion","MFN tariffs return, six months notice")]),
 "revision-tmec-2026-que-significa": ("Revisión del T-MEC 2026","Escenarios","dec",[("Continúa igual","Sin arancel para bienes calificados"),("Reglas más estrictas","Más prueba de origen, lo esperado"),("Reversión","Vuelven aranceles, con seis meses de aviso")]),
-"usmca-tmec-2026-gozden-gecirme": ("USMCA 2026 gözden geçirme","Senaryolar","dec",[("Mevcut durum","Uygun mallar gümrüksüz, bugünkü gibi"),("Sıkı kurallar","Daha çok menşe kanıtı, beklenen"),("Tarifelere dönüş","MFN döner, altı ay bildirim")]),
+"usmca-tmec-2026-gozden-gecirme": ("USMCA 2026 ve Türk satıcı","Menşeine göre etki","dec",[("Türkiye menşeli","USMCA dışı, genel IGI tarifesi"),("ABD menşeli yönlendirme","Tercihli oran, ama sıkılaşabilir"),("Çin bağlantılı içerik","Kısıtlama hedefi, takip et")]),
 }
 
 OUT=os.path.dirname(os.path.abspath(__file__))
