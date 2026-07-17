@@ -100,13 +100,13 @@
    ]
   },
   {
-   "key": "elif",
-   "initials": "EA",
+   "key": "muzaffer",
+   "initials": "ma",
    "gradient": "from-brand-400 to-brand-600",
    "translations": [
     {
      "locale": "tr",
-     "name": "Elif Aydın",
+     "name": "Muzaffer Akın",
      "role": "Gümrük ve Uyum Uzmanı",
      "bio": "ABD ve Meksika gümrük ve uyum süreçlerinde Türk satıcılara Türkçe destek verir."
     }
@@ -422,7 +422,7 @@
   },
   {
    "slug": "nom-004-tekstil",
-   "authorKey": "elif",
+   "authorKey": "muzaffer",
    "coverIcon": "ShieldAlert",
    "coverImageUrl": null,
    "status": "draft",
@@ -694,7 +694,7 @@
   },
   {
    "slug": "meksika-ters-lojistik",
-   "authorKey": "elif",
+   "authorKey": "muzaffer",
    "coverIcon": "Repeat",
    "coverImageUrl": null,
    "status": "draft",
@@ -1102,7 +1102,7 @@
   },
   {
    "slug": "meksika-gumruk-vergisi-ne-kadar",
-   "authorKey": "elif",
+   "authorKey": "muzaffer",
    "coverIcon": "FileCheck",
    "coverImageUrl": null,
    "status": "draft",
