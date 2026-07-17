@@ -23,7 +23,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 </style>'''
 
 def esc(s): return html.escape(str(s), quote=True)
-TR_SLUGS={"abd-meksika-sinir-otesi-lojistik","amazon-meksika-satis-rehberi","meksika-pazarina-giris-rehberi","meksika-iade-yonetimi","meksika-son-mil-teslimat","meksika-dropshipping-rehberi","meksika-yasakli-urunler","nearshoring-meksika-turk-firmalari","meksika-gonderim-maliyeti","amazon-mx-fba-gonderi","mercado-libre-nedir-rehber","laredo-monterrey-depo-fulfillment","meksika-depo-ucretleri","amazon-meksika-q4-takvimi","meksika-sat-cfdi","hibrit-dropshipping","amazon-meksika-mi-amerika-mi","usmca-tmec-2026-gozden-gecirme","meksika-adres-sistemi","mercado-libre-mi-amazon-mi","meksikada-uretim-vs-ihracat","nom-004-tekstil","laredo-depo-hizmeti","abdden-meksikaya-kargo","amazon-meksika-fbm","palet-basina-maliyet-senaryo","meksika-gumruk-vergisi-ne-kadar"}
+TR_SLUGS={"abd-meksika-sinir-otesi-lojistik","amazon-meksika-satis-rehberi","meksika-pazarina-giris-rehberi","meksika-iade-yonetimi","meksika-son-mil-teslimat","meksika-dropshipping-rehberi","meksika-yasakli-urunler","nearshoring-meksika-turk-firmalari","meksika-gonderim-maliyeti","amazon-mx-fba-gonderi","mercado-libre-nedir-rehber","laredo-monterrey-depo-fulfillment","meksika-depo-ucretleri","amazon-meksika-q4-takvimi","meksika-sat-cfdi","hibrit-dropshipping","amazon-meksika-mi-amerika-mi","usmca-tmec-2026-gozden-gecirme","meksika-adres-sistemi","mercado-libre-mi-amazon-mi","meksikada-uretim-vs-ihracat","nom-004-tekstil","laredo-depo-hizmeti","abdden-meksikaya-kargo","amazon-meksika-fbm","palet-basina-maliyet-senaryo","meksika-gumruk-vergisi-ne-kadar","meksika-elektronik-deger-beyani"}
 def titlecase(s, tr=False):
     def cap(m):
         w=m.group(0); i=m.start()
@@ -233,6 +233,10 @@ D = {
 "amazon-meksika-fbm": ("Amazon Meksika FBM","FBM vs FBA / NARF · 2026","cmp",("FBM","FBA / NARF",[("Depolama / kargo","Satıcı","Amazon"),("FNSKU / hazırlık","Gerekmez","Gerekir"),("Prime rozeti","Otomatik yok","Var"),("Meksika Prime","SFP ABD'ye özel","NARF / yerel FBA"),("En uygun","Kontrol, maliyet","Prime, kolaylık")])),
 "palet-basina-maliyet-senaryo": ("Palet başına maliyet","Örnek kalem yapısı · doğrula","cost",[("Mal bedeli","Tedarikçiye","n"),("Navlun (TR-ABD)","Değişken","mut"),("Elleçleme + NOM","Laredo depo","n"),("IVA","%16 · gümrük değeri","n"),("Gümrük · TR menşe","T-MEC dışı · vergi var","mut"),("Depolama","Meksika içi","n")]),
 "meksika-gumruk-vergisi-ne-kadar": ("Meksika gümrük vergisi","Menşeine göre · 2026 · doğrula","cost",[("IVA (ithalat)","%16 · ülke geneli","n"),("Gümrük · ABD menşe","%0 · T-MEC","hi"),("Kurye ≤50$ (T-MEC)","Vergisiz","hi"),("Kurye 50-117$ / >117$","%17 / %19","n"),("T-MEC dışı menşe","%33,5","mut"),("FTA'sız tarifeler","%5-50","mut")]),
+# --- Gundem: MVE (Manifestacion de Valor Electronica) ---
+"mexico-mve-customs-value-declaration": ("Mexico's electronic value declaration","Before vs after 1 Aug 2026","cmp",("Through 31 Jul","From 1 Aug",[("Filing","Electronic or paper","Electronic via VUCEM"),("Obligation","Importer","Importer"),("Transmits","Broker","Broker"),("Non-transmission","Allowed","Required"),("Deadline","Extended before","Verify again")])),
+"manifestacion-valor-electronica-mve": ("Cumplir con la MVE","Antes del 1 de agosto 2026","step",[("Agente listo","Transmite por VUCEM"),("Factura y valor","Exactos y consistentes"),("Formato electrónico","E2 por VUCEM"),("Verificar el plazo","El SAT ya prorrogó antes")]),
+"meksika-elektronik-deger-beyani": ("Elektronik Değer Beyanı (MVE)","Meksika · 2026","stat",[("31 Tem","geçiş biter"),("1 Ağu","zorunlu"),("VUCEM","elektronik form E2")],"İthalatçı sorumlu · gümrük müşaviri iletir · SAT ertelemesi mümkün, doğrula"),
 }
 
 OUT=os.path.dirname(os.path.abspath(__file__))
