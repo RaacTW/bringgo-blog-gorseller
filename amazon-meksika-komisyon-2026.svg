@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="388" viewBox="0 0 720 388" role="img"><title>Amazon Meksika Komisyon Yapısı</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.row{fill:#f5f8f7}.pill{fill:#E1F5EE}.hi{fill:#1f9d5f}.mut{fill:#eef1f0}
+.acc{fill:#12876A}.circ{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}.ln{stroke:#dbe6e1}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
+.tv{fill:#0F6E56;font-weight:bold}.tm{fill:#5b6b66;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
+.tf{fill:#8a9691}.tb{fill:#12876A;font-weight:bold}.big{fill:#0F3D33;font-weight:bold}
+.trd{fill:#a3392c;font-weight:bold}.tam{fill:#8a5a12;font-weight:bold}.ttl{fill:#0F6E56;font-weight:bold}
+@media (prefers-color-scheme:dark){
+.card{fill:#16211e;stroke:#2c3a35}
+.row{fill:#1d2b27}.pill{fill:#123a2e}.hi{fill:#1f9d5f}.mut{fill:#28352f}
+.acc{fill:#2fae7e}.circ{fill:#2fae7e}.rd{fill:#3a201c}.am{fill:#352a15}.tl{fill:#123a2e}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
+.tv{fill:#6fe0b0}.tm{fill:#9db3a9}.tw{fill:#ffffff}
+.tf{fill:#6d8279}.tb{fill:#57d3a3}.big{fill:#d7f2e6}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ttl{fill:#6fe0b0}.ln{stroke:#31423c}}
+</style><rect x="1" y="1" width="718" height="386" rx="18" class="card"/><rect x="28" y="28" width="4" height="28" rx="2" class="acc"/><text x="44" y="45" font-size="21" class="tt">Amazon Meksika Komisyon Yapısı</text><text x="44" y="67" font-size="13" class="ts">2026 · Seller Central&#x27;dan doğrula</text><g transform="translate(0,88)"><rect x="28" y="0" width="664" height="40" rx="10" class="row"/><text x="46" y="25" font-size="15" class="tl2">Profesyonel abonelik</text><rect x="480" y="8" width="200" height="24" rx="12" class="pill"/><text x="580" y="25" text-anchor="middle" font-size="13" class="tv">~600 MXN/ay</text><rect x="28" y="48" width="664" height="40" rx="10" class="row"/><text x="46" y="73" font-size="15" class="tl2">Referral · kategori</text><rect x="480" y="56" width="200" height="24" rx="12" class="pill"/><text x="580" y="73" text-anchor="middle" font-size="13" class="tv">~%8-20</text><rect x="28" y="96" width="664" height="40" rx="10" class="row"/><text x="46" y="121" font-size="15" class="tl2">Ev &amp; Mutfak örneği</text><rect x="480" y="104" width="200" height="24" rx="12" class="mut"/><text x="580" y="121" text-anchor="middle" font-size="13" class="tm">~%15</text><rect x="28" y="144" width="664" height="40" rx="10" class="row"/><text x="46" y="169" font-size="15" class="tl2">Asgari komisyon</text><rect x="480" y="152" width="200" height="24" rx="12" class="pill"/><text x="580" y="169" text-anchor="middle" font-size="13" class="tv">~5 MXN/ürün</text><rect x="28" y="192" width="664" height="40" rx="10" class="row"/><text x="46" y="217" font-size="15" class="tl2">18 Şub 2026</text><rect x="480" y="200" width="200" height="24" rx="12" class="hi"/><text x="580" y="217" text-anchor="middle" font-size="13" class="tw">Bazı kategoride indirim</text></g><text x="28" y="364" font-size="11.5" class="tf">Kaynak: SAT · DOF · trade.gov · 2026</text><text x="692" y="364" text-anchor="end" font-size="12" class="tb">BringGo Ship</text></svg>
