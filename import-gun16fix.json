@@ -1,0 +1,220 @@
+{
+ "format": "bringgo-blog-import",
+ "version": 1,
+ "categories": [
+  {
+   "key": "crossborder",
+   "tr": "Sınır Ötesi Lojistik",
+   "en": "Cross-Border Logistics",
+   "es": "Logística Transfronteriza"
+  },
+  {
+   "key": "customs",
+   "tr": "Gümrük ve Vergi",
+   "en": "Customs & Duties",
+   "es": "Aduana e Impuestos"
+  },
+  {
+   "key": "amazon",
+   "tr": "Amazon Meksika",
+   "en": "Amazon Mexico",
+   "es": "Amazon México"
+  },
+  {
+   "key": "fulfillment",
+   "tr": "Fulfillment ve Depo",
+   "en": "Warehousing & Fulfillment",
+   "es": "Almacén y Fulfillment"
+  },
+  {
+   "key": "returns",
+   "tr": "İade ve Ters Lojistik",
+   "en": "Returns & Reverse Logistics",
+   "es": "Devoluciones y Logística Inversa"
+  }
+ ],
+ "authors": [
+  {
+   "key": "carlos",
+   "initials": "CM",
+   "gradient": "from-teal-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "es",
+     "name": "Carlos Mendoza",
+     "role": "Operaciones de Transporte Transfronterizo",
+     "bio": "Dirige operaciones LTL y FTL entre Laredo y Monterrey en BringGo Ship."
+    }
+   ]
+  },
+  {
+   "key": "sofia",
+   "initials": "SR",
+   "gradient": "from-emerald-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "es",
+     "name": "Sofía Rivera",
+     "role": "Especialista en E-commerce y Amazon México",
+     "bio": "Apoya a vendedores de Amazon México y Mercado Libre con estrategia de fulfillment."
+    }
+   ]
+  },
+  {
+   "key": "mert",
+   "initials": "ME",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Mert Erarslan",
+     "role": "E-ticaret ve Meksika Lojistiği",
+     "bio": "Türk satıcılar için ABD Meksika koridorunu ve Amazon Meksika'yı anlatır."
+    }
+   ]
+  },
+  {
+   "key": "james",
+   "initials": "JC",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "en",
+     "name": "James Carter",
+     "role": "Warehousing and Fulfillment Operations",
+     "bio": "Writes on Amazon Mexico and e-commerce fulfillment across the Laredo border."
+    }
+   ]
+  },
+  {
+   "key": "daniel",
+   "initials": "DB",
+   "gradient": "from-blue-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "en",
+     "name": "Daniel Brooks",
+     "role": "Logistics and Customs Lead",
+     "bio": "Covers US Mexico cross-border logistics and customs at BringGo Ship, with warehouses in Laredo and Monterrey."
+    }
+   ]
+  },
+  {
+   "key": "muzaffer",
+   "initials": "ma",
+   "gradient": "from-brand-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Muzaffer Akın",
+     "role": "Gümrük ve Uyum Uzmanı",
+     "bio": "ABD ve Meksika gümrük ve uyum süreçlerinde Türk satıcılara Türkçe destek verir."
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "slug": "laredo-monterrey-depo-fulfillment",
+   "authorKey": "mert",
+   "coverIcon": "Warehouse",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-14T00:00:00Z",
+   "contentUpdatedAt": "2026-07-14T00:00:00Z",
+   "translations": [
+    {
+     "locale": "tr",
+     "title": "Laredo + Monterrey Depo: Türk Satıcının Meksika Fulfillment Üssü",
+     "excerpt": "Sınırın iki yakasında depo, Türk satıcıya hem ABD hem Meksika esnekliği verir. Laredo artı Monterrey modelinin nasıl çalıştığını ve ne kazandırdığını anlatıyoruz.",
+     "content": "<p>Laredo artı Monterrey çift depo modeli, malı sınırın hem ABD hem Meksika yakasında tutmanı sağlar. ABD tarafında stok bekler ve NARF gibi modellerle satılır, Meksika tarafında ise gümrüklenmiş stok yurt içi hızla teslim edilir. Bu esneklik, tek bir stoktan hem hızlı teslimat hem düşük maliyet çıkarmanın en verimli yoludur.</p><img src=\"https://images.pexels.com/photos/4487383/pexels-photo-4487383.jpeg?auto=compress&cs=tinysrgb&w=1200\" alt=\"Laredo + Monterrey Depo: Türk Satıcının Meksika Fulfillment Üssü\"><ul><li>Laredo, Kuzey Amerika'nın en yoğun iç limanıdır; günde yaklaşık 16.000 kamyon geçer (ATS, RXO).</li><li>İyi belgelenmiş bir TIR Laredo'dan Monterrey'e 1-2 iş gününde ulaşır (operasyon verisi).</li><li>İthalat IVA'sı yüzde 16 (SAT, trade.gov).</li><li>Laredo, ABD'nin ihracat depo ve dağıtımda en büyük Serbest Ticaret Bölgelerinden biridir (FTZ No. 94) (Laredo EDC, ITA).</li><li>BringGo Ship Laredo ve Monterrey'de depoya, lisanslı gümrük müşavirine ve Türkçe desteğe sahiptir (BringGo Ship).</li></ul><h2>Çift depo modeli Türk satıcıya ne kazandırır?</h2><p>Sınırın iki yakasında depo, malı hem ABD hem Meksika esnekliğiyle konumlandırmanı sağlar. ABD tarafında stok bekler ve gerektiğinde satılır, Meksika tarafında gümrüklenmiş stok yurt içi hızla teslim edilir. Böylece tek stoktan hem hız hem maliyet avantajı çıkar.</p><p>Çift depo modelinin özü, malı sınırın hangi yakasında tutmanın o an daha akıllı olduğuna sipariş bazında karar verebilmektir. Sadece ABD'de depolarsan, Meksikalı müşteriye her satış bir sınır geçişi ve gümrük olayıdır; hızlı teslim edemezsin. Sadece Meksika'da depolarsan, ABD pazarına ve NARF gibi modellere erişimin daralır ve tüm stoğun peşin gümrüklenmiş olur. İki yakada birden depoladığında ise seçenek senin olur: ABD tarafındaki Laredo deposunda mal bekler, buradan ABD siparişleri veya NARF ile Meksikalı müşteriye satış yapılabilir; Meksika tarafındaki Monterrey deposunda ise gümrükten çıkmış stok yurt içi kargoyla 1-2 günde teslim edilir. Bu esneklik özellikle Amazon ve Mercado Libre gibi hızın sıralamayı belirlediği platformlarda fark yaratır. BringGo Ship bu modeli Laredo ve Monterrey'de kurulu depoları, lisanslı gümrük müşaviri ve Türkçe destek ekibiyle yürütür, yani Türk satıcı tek bir operatörle sınırın iki yakasını birden kullanır.</p><h2>Laredo neden bu kadar stratejik bir depo noktası?</h2><p>Laredo, ABD-Meksika ticaretinin ana kapısıdır; Kuzey Amerika'nın en yoğun iç limanı olarak günde yaklaşık 16.000 kamyon geçer. Bu yoğunluk taşıyıcı bolluğu, sık sefer ve Monterrey'e kısa mesafe demektir.</p><p>Laredo'nun önemi coğrafyadan gelir. Teksas'ın bu sınır şehri, ABD ile Meksika arasındaki kara ticaretinin en büyük geçiş noktasıdır ve Kuzey Amerika'nın en yoğun iç limanı olarak günde yaklaşık 16.000 kamyona ev sahipliği yapar. Bu yoğunluğun satıcıya üç somut faydası vardır. Birincisi taşıyıcı bolluğu: bu kadar trafik olan bir noktada kamyon ve sefer bulmak kolaydır, bu da fiyat ve esneklik demektir. İkincisi sıklık: sefer sıklığı yüksek olduğu için malın sınırda beklemesi kısalır. Üçüncüsü mesafe: Laredo, Meksika'nın sanayi ve lojistik merkezi Monterrey'e sadece birkaç saatlik sürüş uzaklıktadır, bu yüzden iyi belgelenmiş bir TIR 1-2 iş gününde ulaşır. Buna ek olarak Laredo, ABD'nin ihracat depo ve dağıtımda en büyük Serbest Ticaret Bölgelerinden biridir; FTZ No. 94 sayesinde mal, Meksika'ya yeniden ihraç edilecekse ABD ithalat vergisini tetiklemeden depolanabilir. Yani Laredo sadece bir konum değil, hem operasyonel hem gümrük açısından tasarruf sağlayan bir üstür.</p><h2>Monterrey deposu neyi çözer?</h2><p>Monterrey deposu, gümrükten çıkmış malı Meksika içinde tutar, böylece siparişler yurt içi kargoyla hızlı teslim edilir. Mercado Libre Full ve Amazon FBA beslemesi ile yerel iade yönetimi buradan yürür.</p><p>Laredo malı sınıra getirir; Monterrey ise onu Meksikalı müşteriye yakınlaştırır. Monterrey, Meksika'nın kuzeyindeki en büyük sanayi ve tüketim merkezlerinden biridir ve buradaki bir depo, gümrükten çıkmış stoğu ülke içinde konumlandırır. Bunun kazandırdıkları belirgindir. Birincisi teslimat hızı: mal zaten Meksika'dayken sipariş yurt içi kargoyla 1-2 günde, büyük şehirlerde daha da kısa sürede teslim edilir, ki bu Mercado Libre ve Amazon sıralamasında doğrudan avantajdır. İkincisi platform beslemesi: Monterrey deposundan Mercado Envíos Full ve Amazon FBA depolarına düzenli sevkiyat yapılabilir, yani stok tek noktadan birden çok kanala akar. Üçüncüsü iade yönetimi: Meksikalı müşterinin iadesi yerel bir adrese döner, kontrol edilip yeniden satışa sokulur; bu, iadeyi ABD'ye geri göndermekten çok daha ucuz ve hızlıdır. Yüzde 16 IVA mal ithal edilirken bir kez ödendiği için, sonraki her yurt içi teslimat ek gümrük olayı yaşamaz. Monterrey, kısacası, sınır ötesi bir tedarik zincirini yerel bir e-ticaret operasyonuna dönüştüren halkadır.</p><h2>İki depo arasında mal ve gümrük nasıl akar?</h2><p>Mal Laredo'da toplanır, lisanslı gümrük müşaviri pedimento açarak Meksika'ya ithal eder, IVA ve varsa vergi ödenir, sonra Monterrey deposuna geçer. Buradan yurt içi teslimat ve platform beslemesi yapılır; her adım tek operatörde koordine edilir.</p><p>Akışın net olması, maliyet ve hızın öngörülebilir olması demektir. Süreç Laredo deposunda başlar: ABD'den gelen mal burada toplanır, kontrol edilir ve gerekirse Amazon veya Mercado Libre için hazırlanıp İspanyolca NOM etiketi eklenir. Meksika'ya geçiş için lisanslı bir agente aduanal pedimento açar; ticari fatura, çeki listesi, doğru HS kodları ve USMCA tercihli oranı için menşe belgesi burada devreye girer. ABD menşeli mallar genelde düşük veya sıfır vergiyle geçerken, menşei kanıtlanamayan mallar 2026 tarife kararnamesine tabi olabilir; her durumda IVA gümrük değeri üzerinden hesaplanır. Gümrükten çıkan mal Monterrey deposuna aktarılır ve artık Meksika içinde bir yük gibi hareket eder. Buradan üç yöne akabilir: doğrudan müşteriye yurt içi kargo, Mercado Envíos Full deposuna besleme, ya da Amazon FBA'e sevkiyat. Bütün bu adımların tek bir operatörde toplanması, belgelerin ve zamanlamanın ayrı şirketler arasında kaybolmasını önler. BringGo Ship depolama, gümrük ve teslimatı aynı hatta yürüttüğü için, Türk satıcı süreci parça parça değil uçtan uca yönetir.</p><h2>Bu model kimin için ve hangi hacimde mantıklı?</h2><p>Meksika'da düzenli satan, hızlı teslimatın satışını etkilediği ve iade ile stok yönetimini yerelleştirmek isteyen satıcılar için mantıklıdır. Sınırdan tek tük gönderi yeterliyse gerek yoktur; düzenli hacim başladığında model kazandırır.</p><p>Her satıcının çift depoya ihtiyacı yoktur ve dürüst olmak gerekirse ihtiyaç, hacimle başlar. Ayda birkaç sınır ötesi gönderi yapan, Meksika'yı henüz test eden bir satıcı için tek tük kurye gönderisi yeterli olabilir. Ancak Meksika'da düzenli satış başladığında denklem değişir. Mercado Libre ve Amazon gibi platformlarda hız sıralamayı ve dönüşümü belirlediği için, yurt içinden 1-2 günde teslim edebilmek doğrudan ciroya yansır. İadelerin yerel bir adrese dönüp yeniden satışa girmesi, ABD'ye geri gönderme maliyetini ortadan kaldırır. Stoğun tek noktadan hem Full'e hem FBA'e hem de doğrudan müşteriye akması, envanter yönetimini basitleştirir. Bu üç fayda, düzenli hacimde çift depo modelinin maliyetini fazlasıyla karşılar. Pratik eşik, gönderi başına gümrük ve kurye maliyetinin toplu ithalat artı yurt içi teslimat maliyetini aşmaya başladığı andır; bu noktadan sonra sınırdan tek tük göndermek hem pahalı hem yavaş kalır. BringGo Ship'in çift depo modeli tam bu geçişi hedefler: Türk satıcı, Meksika'yı ciddi bir pazar olarak büyütmeye karar verdiğinde, altyapı hazır bekler.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@123c5c4bdefaf1ae82a3cc72c82a50984bdc331e/laredo-monterrey-depo-fulfillment.svg\" alt=\"Laredo + Monterrey Depo: Türk Satıcının Meksika Fulfillment Üssü\"><h2>Laredo ve Monterrey depo: hangi yaka neyi çözer (2026)</h2><table><thead><tr><td>Boyut</td><td>Laredo (ABD yakası)</td><td>Monterrey (MX yakası)</td></tr></thead><tbody><tr><td>Stok durumu</td><td>Gümrük öncesi, ABD'de bekler</td><td>Gümrüklenmiş, Meksika'da</td></tr><tr><td>Ana kullanım</td><td>NARF, ABD siparişi, sınır geçişi</td><td>Yurt içi hızlı teslimat</td></tr><tr><td>Teslimat hızı</td><td>Sınır + gümrük süresi</td><td>Yurt içi 1-2 gün</td></tr><tr><td>Platform beslemesi</td><td>Hazırlık ve prep</td><td>Full + FBA + doğrudan müşteri</td></tr><tr><td>Gümrük avantajı</td><td>FTZ No. 94, re-export vergisiz</td><td>IVA bir kez, parti üzerinden</td></tr></tbody></table><h2>Tanımlar</h2><ul><li><strong>Fulfillment:</strong> Fulfillment, siparişin depoda toplanması, paketlenmesi, kargoya verilmesi ve iadesinin yönetilmesini kapsayan operasyondur.</li><li><strong>Serbest Ticaret Bölgesi (FTZ):</strong> FTZ, ABD gümrük bölgesi dışında sayılan, malın vergi ödenmeden depolanıp yeniden ihraç edilebildiği denetimli alandır.</li><li><strong>Pedimento:</strong> Pedimento, lisanslı gümrük müşavirinin açtığı, malı Meksika'ya yasal olarak ithal eden resmi gümrük beyannamesidir.</li></ul><h2>Sık sorulan sorular</h2><h3>Çift depo modeli nedir?</h3><p>Malı sınırın hem ABD hem Meksika yakasında depolamaktır. Laredo tarafında stok bekler ve NARF ile veya ABD siparişleriyle satılır; Monterrey tarafında gümrüklenmiş stok yurt içi hızla teslim edilir. Böylece tek stoktan hem hız hem maliyet esnekliği elde edilir.</p><h3>Laredo neden depo için stratejik?</h3><p>Laredo, ABD-Meksika kara ticaretinin ana kapısı ve Kuzey Amerika'nın en yoğun iç limanıdır; günde yaklaşık 16.000 kamyon geçer. Bu, taşıyıcı bolluğu, sık sefer ve Monterrey'e sadece birkaç saat mesafe demektir; ayrıca FTZ No. 94 gümrük avantajı sağlar.</p><h3>Monterrey deposu ne işe yarar?</h3><p>Gümrükten çıkmış malı Meksika içinde tutar, böylece siparişler yurt içi kargoyla 1-2 günde teslim edilir. Buradan Mercado Envíos Full ve Amazon FBA beslenir, yerel iadeler yönetilir. Mal zaten gümrüklü olduğu için her teslimat yeni bir gümrük olayı yaşamaz.</p><h3>Mal iki depo arasında nasıl geçer?</h3><p>Laredo'da toplanan mal, lisanslı gümrük müşavirinin açtığı pedimento ile Meksika'ya ithal edilir, IVA ve varsa vergi ödenir, sonra Monterrey deposuna aktarılır. ABD menşeli mallar genelde USMCA tercihli oranıyla geçer. Süreç tek operatörde koordine edilir.</p><h3>Bu model hangi hacimde mantıklı?</h3><p>Meksika'da düzenli satış başladığında. Ayda birkaç gönderi için tek tük kurye yeterli olabilir, ama hız satışı etkilemeye ve iadeler birikmeye başladığında çift depo modeli maliyetini karşılar. Eşik, gönderi başına gümrük artı kurye maliyetinin toplu ithalatı aştığı andır.</p><h3>Tek depodan Amazon ve Mercado Libre birlikte beslenir mi?</h3><p>Evet. Monterrey'deki gümrüklü stok hem Mercado Envíos Full deposuna hem Amazon FBA'e hem de doğrudan müşteriye sevk edilebilir. Bu, envanteri tek noktadan yönetip birden çok kanala dağıtmayı ve platform seçimini altyapı sorunu olmaktan çıkarmayı sağlar.</p><h3>IVA her teslimatta yeniden mi ödenir?</h3><p>Hayır. IVA ve varsa gümrük vergisi, mal Meksika'ya ithal edilirken bir kez, parti üzerinden ödenir. Sonrasında Monterrey deposundan çıkan her yurt içi teslimat ek bir gümrük olayı yaşamaz, bu yüzden toplu ithalat sipariş başına maliyeti düşürür.</p><h3>BringGo Ship bu modeli nasıl sağlıyor?</h3><p>Laredo ve Monterrey'de kurulu depoları, lisanslı gümrük müşaviri ve Türkçe destek ekibiyle. Mal sınırda toplanır, gümrüklenir, Meksika içine sokulur ve yurt içinden teslim edilir; depolama, gümrük ve teslimat aynı hatta yürütülür, böylece süreç uçtan uca tek elden yönetilir.</p><p><a href='https://app.bringgoship.com/register'>Laredo ve Monterrey depo üssünü BringGo Ship ile kur, Meksika'yı yerel gibi yönet</a></p><h2>Kaynaklar</h2><ul><li>Laredo EDC, Serbest Ticaret Bölgesi (<a href='https://siteselection.laredoedc.org/foreign-trade-zone/'>siteselection.laredoedc.org</a>)</li><li>International Trade Administration, FTZ No. 94 (<a href='https://ofis.trade.gov/Zones/Details/81'>ofis.trade.gov</a>)</li><li>SAT (Meksika vergi idaresi) (<a href='https://www.sat.gob.mx'>sat.gob.mx</a>)</li></ul><p><em>Not: Bu içerik yalnızca bilgilendirme amaçlıdır ve hukuki, mali veya gümrük danışmanlığı değildir. Vergi oranları ve mevzuat 2026'da sık değişebilir; işlem yapmadan önce resmi kaynaktan (SAT, DOF, CBP) veya lisanslı gümrük müşavirimizden güncel bilgiyi teyit edin.</em></p>",
+     "category": [
+      "Fulfillment ve Depo"
+     ],
+     "tags": [
+      "laredo depo hizmeti",
+      "monterrey depo"
+     ],
+     "coverAlt": "Two warehouses on either side of the US-Mexico border with trucks moving between them, aerial photographic, no text",
+     "metaTitle": "Laredo Monterrey Depo: Meksika Fulfillment",
+     "metaDescription": "Laredo ve Monterrey çift depo modeli Türk satıcıya ne kazandırır? Sınırın iki yakasında stok, hızlı gümrük ve yurt içi teslimatı tek rehberde anlatıyoruz.",
+     "keywords": [
+      "meksika depo hizmeti fulfillment",
+      "laredo depo hizmeti",
+      "monterrey depo"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "bonded-warehouse-laredo",
+   "authorKey": "daniel",
+   "coverIcon": "Warehouse",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-14T00:00:00Z",
+   "contentUpdatedAt": "2026-07-14T00:00:00Z",
+   "translations": [
+    {
+     "locale": "en",
+     "title": "Bonded Warehouses In Laredo: How They Work And When To Use One",
+     "excerpt": "Bonded warehouses and foreign trade zones in Laredo let you store goods without paying duty upfront. Here is how each works and when a cross-border shipper should use one.",
+     "content": "<p>A bonded warehouse in Laredo lets you store imported goods without paying US duty until they leave the warehouse, for up to five years, under a customs bond. A foreign trade zone goes further: goods there are treated as outside US customs territory, with no time limit and no duty on items re-exported, for example to Mexico. Both defer or avoid duty, which suits cross-border and re-export flows.</p><ul><li>In a US bonded warehouse, dutiable goods may be stored without paying duty for up to five years from import (CBP).</li><li>A foreign trade zone is treated as outside US customs territory for duty purposes, with no storage time limit (CBP, ITA).</li><li>Goods re-exported from an FTZ, for example to Mexico, do not trigger US import duty (CBP).</li><li>Laredo is the one of the largest US foreign trade zones for export warehousing and distribution (Laredo EDC).</li><li>Laredo FTZ No. 94 has 7 magnet sites and 6 usage-driven sites with more than 40 operators (Laredo EDC).</li></ul><img src=\"https://images.pexels.com/photos/36398150/pexels-photo-36398150.jpeg?auto=compress&cs=tinysrgb&w=1200\" alt=\"Bonded Warehouses In Laredo: How They Work And When To Use One\"><h2>How does a bonded warehouse in Laredo work?</h2><p>A bonded warehouse stores imported, dutiable goods under a customs bond without paying duty until the goods are withdrawn, for up to five years. When goods leave for US consumption, duty is paid; if they are exported instead, US duty can be avoided. It defers the tax and gives you flexibility on timing.</p><p>A customs bonded warehouse is a secured facility, authorized by US Customs and Border Protection, where imported dutiable goods can be stored, and in some cases manipulated, without paying import duty at the time they arrive. The duty is deferred: it becomes payable only when the goods are withdrawn for consumption into the US market, and goods may remain in the bonded warehouse for up to five years from the date of import. The arrangement runs under a bond, a financial guarantee shared by the importer and the warehouse operator, which is how customs secures the deferred duty. For a cross-border shipper, the appeal is timing and flexibility. You can bring goods close to the border, hold them without tying up cash in duty, and decide later whether they enter the US market, in which case you pay duty then, or move onward, for example into Mexico. Laredo is a natural place for this because it is the main US-Mexico land gateway, so goods staged in a Laredo bonded facility are already positioned for the crossing. The core idea is simple: a bonded warehouse lets you separate the moment goods arrive from the moment you pay duty, which is valuable when the final destination or timing is not yet fixed.</p><h2>How is a foreign trade zone different from a bonded warehouse?</h2><p>A foreign trade zone is treated as outside US customs territory, so there is no time limit, no bond required, and no duty on goods re-exported. Bonded warehouses defer duty for up to five years under a bond; FTZs can avoid it entirely for re-exports and allow more value-added work.</p><p>Bonded warehouses and foreign trade zones both let you avoid paying duty upfront, but they work differently and suit different needs. A bonded warehouse defers duty for up to five years and requires a customs bond for each entry. A foreign trade zone, or FTZ, goes further: for duty purposes, goods inside it are treated as if they are outside US customs territory altogether. That brings three practical differences. First, there is no storage time limit in an FTZ, unlike the five-year cap in a bonded warehouse. Second, an FTZ does not require the same per-entry bond. Third, and most important for cross-border shippers, goods re-exported from an FTZ, for example moved onward into Mexico, never trigger US import duty at all, whereas in a bonded warehouse the mechanics are about deferral. FTZs also generally allow more value-added operations, such as kitting, assembly and repackaging. Laredo is a strong FTZ location: it is the one of the largest US foreign trade zones for export warehousing and distribution, and its FTZ No. 94 includes 7 magnet sites and 6 usage-driven sites with more than 40 operators. For a business staging goods that will move into Mexico, the FTZ's duty-free re-export treatment is often the deciding advantage.</p><h2>When should a US-Mexico shipper use one?</h2><p>Use a bonded warehouse or FTZ when you want to defer or avoid US duty on goods that may be re-exported to Mexico, when timing or destination is uncertain, or when you need to stage inventory at the border. For goods that will clearly enter the US market soon, standard entry may be simpler.</p><p>The decision comes down to what happens to the goods and when. A bonded warehouse or FTZ makes the most sense in a few situations. The clearest is re-export: if goods are coming from a third country and will move onward into Mexico rather than being sold in the US, an FTZ lets them pass through without ever incurring US import duty, which can be a decisive saving. Another is timing uncertainty: if you are not yet sure whether goods will enter the US or move on, deferring the duty decision keeps your options open and your cash free. A third is border staging: holding inventory in Laredo, at the main US-Mexico gateway, positions it for a fast crossing, and doing so in a bonded or FTZ facility means you are not paying US duty to stage goods that are destined for Mexico anyway. On the other hand, if goods are clearly entering the US market for domestic sale in the near term, a standard customs entry may be simpler than the added administration of a bonded or zone status. The right choice depends on your flow, so it is worth mapping where goods actually go. An operator with border facilities in Laredo can advise on and provide the appropriate structure, so the duty treatment matches how your goods really move.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@123c5c4bdefaf1ae82a3cc72c82a50984bdc331e/bonded-warehouse-laredo.svg\" alt=\"Bonded Warehouses In Laredo: How They Work And When To Use One\"><h2>Bonded warehouse vs foreign trade zone in Laredo</h2><table><thead><tr><td>Feature</td><td>Bonded warehouse</td><td>Foreign trade zone (FTZ)</td></tr></thead><tbody><tr><td>Duty on arrival</td><td>Deferred</td><td>Not treated as imported</td></tr><tr><td>Storage time limit</td><td>Up to 5 years</td><td>No time limit</td></tr><tr><td>Bond required</td><td>Yes, per entry</td><td>Not the same per-entry bond</td></tr><tr><td>Re-export to Mexico</td><td>Deferral mechanics</td><td>No US import duty</td></tr><tr><td>Value-added work</td><td>Limited</td><td>Kitting, assembly, repackaging</td></tr></tbody></table><h2>Definitions</h2><ul><li><strong>Bonded warehouse:</strong> A bonded warehouse is a customs-authorized facility where imported dutiable goods can be stored without paying duty until they are withdrawn, for up to five years.</li><li><strong>Foreign trade zone (FTZ):</strong> A foreign trade zone is a designated US area treated as outside customs territory for duty purposes, allowing deferred or avoided duty and value-added operations.</li><li><strong>Customs bond:</strong> A customs bond is a financial guarantee that secures the duties and obligations owed to customs on imported goods.</li></ul><h2>Frequently asked questions</h2><h3>How does a bonded warehouse work?</h3><p>It stores imported dutiable goods under a customs bond without paying duty on arrival. Duty is deferred until the goods are withdrawn for US consumption, and they may stay up to five years. If exported instead, US duty can be avoided. It separates when goods arrive from when you pay duty.</p><h3>What is the difference between a bonded warehouse and an FTZ?</h3><p>A bonded warehouse defers duty for up to five years under a per-entry bond. A foreign trade zone treats goods as outside US customs territory, with no time limit, no per-entry bond, no duty on re-exports, and more value-added operations allowed. FTZs suit re-export flows like moving goods into Mexico.</p><h3>Do I pay US duty on goods re-exported to Mexico from Laredo?</h3><p>From a foreign trade zone, no. Goods re-exported from an FTZ, such as onward into Mexico, do not trigger US import duty. That is a key reason cross-border shippers stage Mexico-bound goods in an FTZ rather than making a standard US entry and paying duty they do not owe.</p><h3>Why is Laredo a good location for these facilities?</h3><p>Laredo is the main US-Mexico land gateway and the one of the largest US foreign trade zones for export warehousing and distribution. Its FTZ No. 94 has 7 magnet and 6 usage-driven sites with over 40 operators. Goods staged there are positioned for a fast crossing into Mexico.</p><h3>When should I not use a bonded warehouse or FTZ?</h3><p>When goods are clearly entering the US market for domestic sale soon. In that case a standard customs entry may be simpler than the added administration of bonded or zone status. Bonded and FTZ facilities pay off mainly for re-export, timing uncertainty, or border staging.</p><h3>Can I do assembly or repackaging in these facilities?</h3><p>In a foreign trade zone, generally yes. FTZs allow value-added operations like kitting, assembly and repackaging, which a standard bonded warehouse limits. For a cross-border business that preps goods for Mexico, that flexibility, combined with duty-free re-export, is a significant advantage.</p><p><a href='https://app.bringgoship.com/register'>Stage and clear Mexico-bound goods through BringGo Ship's Laredo border operation</a></p><h2>Sources</h2><ul><li>CBP, foreign trade zones and bonded warehouses (<a href='https://www.cbp.gov/border-security/ports-entry/cargo-security/foreign-trade-zones'>cbp.gov</a>)</li><li>Laredo EDC, foreign trade zone (<a href='https://siteselection.laredoedc.org/foreign-trade-zone/'>siteselection.laredoedc.org</a>)</li><li>International Trade Administration, FTZ No. 94 (<a href='https://ofis.trade.gov/Zones/Details/81'>ofis.trade.gov</a>)</li></ul><p><em>Note: This content is for general information only and is not legal, tax or customs advice. Rates and rules can change often in 2026; verify the current details with an official source (SAT, DOF, CBP) or our licensed customs broker before acting.</em></p>",
+     "category": [
+      "Fulfillment ve Depo"
+     ],
+     "tags": [
+      "in bond storage Texas",
+      "bonded facility border"
+     ],
+     "coverAlt": "A large secure warehouse near the border with containers and a customs signage gate, photographic, no text",
+     "metaTitle": "Bonded Warehouses In Laredo Explained 2026",
+     "metaDescription": "How bonded warehouses and foreign trade zones in Laredo work, their difference, and when a US-Mexico shipper should use one to defer or avoid duty.",
+     "keywords": [
+      "bonded warehouse Laredo",
+      "in bond storage Texas",
+      "bonded facility border"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "meksika-sat-cfdi",
+   "authorKey": "muzaffer",
+   "coverIcon": "FileCheck",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-14T00:00:00Z",
+   "contentUpdatedAt": "2026-07-14T00:00:00Z",
+   "translations": [
+    {
+     "locale": "tr",
+     "title": "Meksika SAT Ve CFDI: E-Fatura Sistemi Satıcıyı Nasıl Etkiler?",
+     "excerpt": "Meksika'da her ticari işlem CFDI e-faturayla belgelenir. SAT'ın bu sistemi, Carta Porte ve 2026 reformunun Türk satıcı için ne anlama geldiğini anlatıyoruz.",
+     "content": "<p>SAT Meksika'nın vergi idaresidir ve CFDI, ülkedeki zorunlu elektronik fatura sistemidir; her ticari işlem, satış ve taşımanın gerçek zamanlı olarak SAT'a raporlanmasını gerektirir. Türk satıcıyı dolaylı etkiler: mal Meksika içinde satılıyorsa, yerel bir tüzel kişi veya hizmet sağlayıcı CFDI kesmeli, taşımada Carta Porte eklenmeli ve 2026 reformuyla artan denetime uyulmalıdır.</p><ul><li>CFDI 4.0, Meksika'nın güncel zorunlu e-fatura sürümüdür ve tüm mükelleflere, eşik olmadan uygulanır (SAT, EDICOM).</li><li>Carta Porte complementi, federal karayolu, demiryolu, denizyolu veya hava taşımasında zorunludur (SAT).</li><li>7 Kasım 2025'te yayımlanan 2026 vergi reformu, SAT'a işlemin gerçekliğini foto veya videoyla doğrulama yetkisi verdi (KPMG).</li><li>CFDI uyumsuzluğu sahte veya içi boş CFDI için her belgenin yüzde 55-75'i kadar ceza artı 2-9 yıl hapis doğurabilir (CFF).</li><li>İthalat IVA'sı yüzde 16'dir (SAT, trade.gov).</li></ul><h2>SAT ve CFDI Türk satıcıyı nasıl etkiler?</h2><p>Doğrudan değil, dolaylı etkiler. Mal Meksika içinde satılıyorsa her işlem CFDI e-faturayla belgelenmeli, taşımada Carta Porte eklenmelidir. Bunu yerel bir tüzel kişi veya hizmet sağlayıcı yürütür, bu yüzden Türk satıcı genelde bu yükü taşıyan bir operatörle çalışır.</p><p>SAT, yani Servicio de Administración Tributaria, Meksika'nın vergi idaresidir ve ülkenin vergi sistemi büyük ölçüde CFDI adı verilen elektronik fatura üzerine kuruludur. CFDI, her ticari işlemin, satışın ve hatta taşımanın SAT tarafından onaylanan dijital bir belgeyle kaydedilmesini gerektirir; sistem gerçek zamanlıya yakın çalışır ve eşik yoktur, yani küçük işlemler bile kapsamdadır. Türk satıcı için soru şudur: bu beni doğrudan bağlar mı? Genelde hayır, ama dolaylı olarak çok önemlidir. Mal Meksika'ya ithal edilip yurt içinde satılıyorsa, o satışların CFDI ile faturalanması, taşımada Carta Porte eklenmesi ve SAT kurallarına uyulması gerekir. Bunu yapabilmek için Meksika'da bir RFC ve tüzel yapı, ya da bu işlemleri senin adına yürüten bir hizmet sağlayıcı gerekir. Türk satıcıların çoğu ikinci yolu seçer: gümrük, RFC ve CFDI yükünü taşıyan bir operatörle çalışır. BringGo Ship bu tarafı yönetir, böylece satıcı ürün ve pazarlamaya odaklanırken Meksika'nın vergi belgeleme sistemi arka planda düzgün işler. Yani SAT ve CFDI'yi anlamak, doğrudan uğraşmak zorunda kalmasan bile, akışını doğru kurmak için gereklidir.</p><h2>CFDI nedir ve nasıl çalışır?</h2><p>CFDI, SAT'ın onayladığı zorunlu elektronik fatura biçimidir; güncel sürüm CFDI 4.0'dır. Her ticari işlem için kesilir, yetkili bir sağlayıcı tarafından damgalanır ve SAT'a raporlanır. Eşik yoktur, tüm mükellefleri kapsar.</p><p>CFDI, Comprobante Fiscal Digital por Internet'in kısaltmasıdır ve pratikte Meksika'nın internet tabanlı zorunlu e-faturasıdır. Çalışma mantığı şudur: bir işlem gerçekleştiğinde, satıcı standart bir XML biçiminde bir CFDI oluşturur, bu belge yetkili bir sertifikasyon sağlayıcısı tarafından dijital olarak damgalanır ve SAT'a iletilir, böylece işlem anında vergi idaresinin kaydına girer. Güncel sürüm CFDI 4.0'dır ve daha sıkı veri doğrulaması getirir; alıcı ve satıcının vergi bilgileri, adları ve RFC'leri birebir tutmak zorundadır, aksi halde belge reddedilir. Sistem B2B, B2G ve B2C işlemleri kapsar ve bir ciro eşiği yoktur, yani büyük küçük her mükellef dahildir. Bu, birçok ülkedeki kağıt fatura veya sonradan raporlama alışkanlığından çok farklıdır: Meksika'da fatura, işlemle eşzamanlı olarak devletin sistemine girer. Türk satıcı için önemli olan, Meksika içindeki satışların bu biçimde belgelenmesi gerektiğini bilmek ve bunu doğru yürütecek bir yapıya sahip olmaktır. CFDI olmadan yapılan bir yurt içi satış, vergi açısından geçersiz sayılır ve sorun yaratır.</p><h2>Carta Porte taşımada neyi zorunlu kılar?</h2><p>Carta Porte, malın federal karayolu, demiryolu, denizyolu veya havayla taşınmasında CFDI'ye eklenmesi zorunlu bir complementtir. Malın, aracın, sürücünün ve güzergâhın bilgilerini içerir; eksikse taşıma cezaya ve alıkonmaya açık hâle gelir.</p><p>Carta Porte, CFDI sisteminin taşımaya bakan parçasıdır ve lojistik açısından kritik olduğu için ayrı ele almak gerekir. Meksika'da mal federal yollarda, demiryolunda, denizyolude veya havayla taşındığında, taşımayı yapan bir CFDI'ye Carta Porte complementi eklemek zorundadır. Bu belge malın ne olduğunu, miktarını, taşıyan aracı, sürücüyü ve güzergâhı, çıkış ve varış noktalarını içerir; yani devlet, hangi malın nereden nereye hangi araçla gittiğini görebilir. Amaç kaçakçılık ve vergi kaçağını önlemektir. Türk satıcı için bunun anlamı şudur: Meksika içindeki yurt içi taşımalar, örneğin Monterrey deposundan müşteriye giden bir sevkiyat, Carta Porte'siz yapılamaz. Complement eksik veya hatalıysa, taşıma bir yol denetiminde cezaya ve malın alıkonmasına açık hâle gelir. Bu yüzden Meksika içinde yürütülen lojistiğin, Carta Porte'yi doğru kesecek bir yapıyla yapılması şarttır. Sınırda ve ülke içinde faaliyet gösteren bir operatör, hem gümrük tarafındaki pedimentoyu hem yurt içi taşımadaki Carta Porte'yi düzgün yönetir, böylece satıcı bu teknik yükü tek tek takip etmek zorunda kalmaz.</p><h2>2026 vergi reformu neyi değiştirdi?</h2><p>7 Kasım 2025'te yayımlanan 2026 reformu, SAT'a bir CFDI'deki işlemin gerçekten yapıldığını foto, video veya ses gibi delillerle doğrulama yetkisi verdi. Denetim sıkılaştı ve sahte fatura cezaları her belgenin yüzde 55-75'ine artı 2-9 yıl hapse çıkabiliyor.</p><p>Meksika'nın vergi çerçevesi 2026'da belirgin şekilde sıkılaştı ve bu, Meksika içinde işlem yapan herkesi ilgilendiriyor. 7 Kasım 2025'te resmi gazetede yayımlanan 2026 vergi reformu, CFDI kurallarını güncelledi ve en dikkat çekici değişiklik SAT'ın yetkisinin genişlemesi oldu: idare artık bir CFDI'de yansıtılan işlemlerin gerçek olup olmadığını doğrulayabiliyor ve mükelleften işlemin yapıldığını kanıtlamak için foto, video veya ses gibi teknolojik deliller isteyebiliyor. Yani sahte veya içi boş fatura kesmenin riski çok arttı. Uyumsuzluğun bedeli ağırdır: sahte veya içi boş CFDI için her belgenin yüzde 55-75'i kadar ceza ve 2-9 yıl hapis, artan denetim riski ve faturaların geçersiz sayılması söz konusu olabiliyor. Türk satıcı için mesaj nettir: Meksika'daki satış ve taşıma belgeleri gerçek işlemleri, tutarlı verilerle yansıtmalıdır; kısa yol veya özensizlik pahalıya patlar. Bu ortamda doğru CFDI, doğru Carta Porte ve tutarlı gümrük belgeleri bir tercih değil, zorunluluktur. Bu teknik ve sürekli değişen tarafı bir uzmana veya deneyimli bir operatöre bırakmak, hem cezalardan hem de malın yolda takılmasından korur. BringGo Ship bu belgeleme tarafını Meksika mevzuatına uygun yürütür.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@123c5c4bdefaf1ae82a3cc72c82a50984bdc331e/meksika-sat-cfdi.svg\" alt=\"Meksika SAT Ve CFDI: E-Fatura Sistemi Satıcıyı Nasıl Etkiler?\"><h2>Meksika SAT ve CFDI: satıcının bilmesi gerekenler (2026)</h2><table><thead><tr><td>Öğe</td><td>Ne</td><td>Satıcı için anlamı</td></tr></thead><tbody><tr><td>CFDI 4.0</td><td>Zorunlu e-fatura, eşik yok</td><td>Yurt içi her satış faturalanmalı</td></tr><tr><td>Carta Porte</td><td>Taşıma complementi</td><td>Yurt içi sevkiyatta zorunlu</td></tr><tr><td>2026 reformu</td><td>SAT gerçeklik denetimi</td><td>Sahte/boş fatura riski arttı</td></tr><tr><td>Ceza</td><td>Belge başına %55-75 + hapis</td><td>Uyum bir tercih değil</td></tr><tr><td>Yapı</td><td>RFC + tüzel kişi veya operatör</td><td>Çoğu Türk satıcı operatörle çalışır</td></tr></tbody></table><h2>Tanımlar</h2><ul><li><strong>SAT:</strong> SAT, Meksika'nın vergi idaresidir ve vergi toplama ile e-fatura sistemini yönetir.</li><li><strong>CFDI:</strong> CFDI, Meksika'da her ticari işlem için zorunlu olan, SAT tarafından onaylanan elektronik fatura biçimidir.</li><li><strong>Carta Porte:</strong> Carta Porte, malın taşınmasında CFDI'ye eklenen ve mal, araç, sürücü ve güzergâh bilgisini içeren zorunlu complementtir.</li></ul><h2>Sık sorulan sorular</h2><h3>SAT ve CFDI Türk satıcıyı doğrudan bağlar mı?</h3><p>Doğrudan değil, dolaylı bağlar. Mal Meksika içinde satılıyorsa her işlem CFDI ile faturalanmalı, taşımada Carta Porte eklenmelidir. Bunu yerel bir tüzel kişi veya hizmet sağlayıcı yürütür, bu yüzden çoğu Türk satıcı bu yükü taşıyan bir operatörle çalışır.</p><h3>CFDI nedir?</h3><p>CFDI, Meksika'nın zorunlu elektronik faturasıdır; güncel sürüm CFDI 4.0'dır. Her ticari işlem için kesilir, yetkili bir sağlayıcı tarafından damgalanır ve gerçek zamanlıya yakın SAT'a raporlanır. Eşik yoktur, tüm mükellefleri ve işlem türlerini kapsar.</p><h3>Carta Porte ne zaman zorunlu?</h3><p>Mal federal karayolu, demiryolu, denizyolu veya havayla taşındığında Carta Porte complementi CFDI'ye eklenmelidir. Malın, aracın, sürücünün ve güzergâhın bilgisini içerir. Meksika içindeki yurt içi sevkiyatlar bu belge olmadan yapılamaz, eksikse ceza ve alıkonma riski doğar.</p><h3>2026 vergi reformu CFDI'de neyi değiştirdi?</h3><p>7 Kasım 2025'te yayımlanan reform, SAT'a bir CFDI'deki işlemin gerçek olduğunu foto, video veya ses gibi delillerle doğrulama yetkisi verdi. Sahte veya içi boş fatura riski arttı; sahte CFDI her belgenin yüzde 55-75'i kadar ceza ve 2-9 yıl hapis doğurabiliyor.</p><h3>CFDI olmadan Meksika'da satış yapılır mı?</h3><p>Hayır. Meksika içinde yapılan bir ticari satışın CFDI ile faturalanması zorunludur; aksi halde işlem vergi açısından geçersiz sayılır. Bu yüzden yurt içi satış yapan bir yapının CFDI kesebilmesi gerekir, ki bunu genelde yerel bir operatör sağlar.</p><h3>Bu belgeleri kim yönetmeli?</h3><p>Meksika'da RFC'li bir tüzel kişi ya da bu işlemleri senin adına yürüten bir hizmet sağlayıcı. CFDI, Carta Porte ve gümrük belgeleri teknik ve sürekli değişen bir alandır, bu yüzden çoğu Türk satıcı bu yükü BringGo Ship gibi deneyimli bir operatöre bırakır.</p><p><a href='https://app.bringgoship.com/register'>Meksika CFDI ve gümrük belgelerini BringGo Ship ile uyumlu yürüt</a></p><h2>Kaynaklar</h2><ul><li>SAT (Meksika vergi idaresi) (<a href='https://www.sat.gob.mx'>sat.gob.mx</a>)</li><li>KPMG, Meksika CFDI 2026 vergi reformu (<a href='https://kpmg.com/us/en/taxnewsflash/news/2025/11/mexico-updates-electronic-invoicing-cfdi-2026-tax-reform.html'>kpmg.com</a>)</li><li>EDICOM, Meksika CFDI e-fatura (<a href='https://edicomgroup.com/blog/cfdi-electronic-invoicing-mexico'>edicomgroup.com</a>)</li></ul><p><em>Not: Bu içerik yalnızca bilgilendirme amaçlıdır ve hukuki, mali veya gümrük danışmanlığı değildir. Vergi oranları ve mevzuat 2026'da sık değişebilir; işlem yapmadan önce resmi kaynaktan (SAT, DOF, CBP) veya lisanslı gümrük müşavirimizden güncel bilgiyi teyit edin.</em></p>",
+     "category": [
+      "Gümrük ve Vergi"
+     ],
+     "tags": [
+      "cfdi nedir",
+      "meksika e-fatura sistemi"
+     ],
+     "coverAlt": "An accountant reviewing digital invoices on a screen with tax documents on the desk, photographic, no text",
+     "metaTitle": "Meksika SAT Ve CFDI: E-Fatura Rehberi",
+     "metaDescription": "Meksika'nın SAT ve CFDI e-fatura sistemi Türk satıcıyı nasıl etkiler? CFDI 4.0, Carta Porte ve 2026 vergi reformu tek rehberde açıklanıyor.",
+     "keywords": [
+      "meksika sat vergi dairesi cfdi e-fatura",
+      "cfdi nedir",
+      "meksika e-fatura sistemi"
+     ]
+    }
+   ]
+  }
+ ]
+}
