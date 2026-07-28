@@ -1,0 +1,89 @@
+{
+ "format": "bringgo-blog-import",
+ "version": 1,
+ "categories": [
+  {
+   "key": "crossborder",
+   "tr": "Sınır Ötesi Lojistik",
+   "en": "Cross-Border Logistics",
+   "es": "Logística Transfronteriza"
+  },
+  {
+   "key": "customs",
+   "tr": "Gümrük ve Vergi",
+   "en": "Customs & Duties",
+   "es": "Aduana e Impuestos"
+  },
+  {
+   "key": "amazon",
+   "tr": "Amazon Meksika",
+   "en": "Amazon Mexico",
+   "es": "Amazon México"
+  },
+  {
+   "key": "fulfillment",
+   "tr": "Fulfillment ve Depo",
+   "en": "Warehousing & Fulfillment",
+   "es": "Almacén y Fulfillment"
+  },
+  {
+   "key": "returns",
+   "tr": "İade ve Ters Lojistik",
+   "en": "Returns & Reverse Logistics",
+   "es": "Devoluciones y Logística Inversa"
+  }
+ ],
+ "authors": [
+  {
+   "key": "muzaffer",
+   "initials": "ma",
+   "gradient": "from-brand-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Muzaffer Akın",
+     "role": "Gümrük ve Uyum Uzmanı",
+     "bio": "ABD ve Meksika gümrük ve uyum süreçlerinde Türk satıcılara Türkçe destek verir."
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "slug": "meksika-de-minimis-2026",
+   "authorKey": "muzaffer",
+   "coverIcon": "Truck",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-28T00:00:00Z",
+   "contentUpdatedAt": "2026-07-28T00:00:00Z",
+   "translations": [
+    {
+     "locale": "tr",
+     "title": "Meksika De Minimis 2026: Eşikler, Oranlar Ve Türk Satıcının Gerçek Durumu",
+     "excerpt": "\"117 dolar altı vergisiz\" cümlesi Türk satıcı için yanlış. Eşik menşee bağlı ve Türkiye anlaşmanın dışında. Bu rehber eşikleri, rejim seçimini ve yapılması gerekenleri adım adım anlatıyor.",
+     "content": "<p>Meksika'nın kurye gönderilerine tanıdığı basitleştirilmiş düşük değer rejiminde ABD ve Kanada menşeli mallarda 50 doların altı ithalat vergisi ve IVA'dan muaftır, 50 ile 117 dolar arasında tek oranlı yüzde 17 uygulanır. Bu avantaj menşee bağlıdır, malın nereden sevk edildiğine değil. Türkiye USMCA tarafı olmadığı için Türk menşeli ürün, ABD deposundan gönderilse bile bu eşiklerden yararlanamaz.</p><img src=\"https://images.pexels.com/photos/11087837/pexels-photo-11087837.jpeg?auto=compress&cs=tinysrgb&w=1200\" alt=\"Meksika De Minimis 2026: Eşikler, Oranlar Ve Türk Satıcının Gerçek Durumu\"><ul><li>ABD ve Kanada menşeli kurye gönderilerinde 50 doların altı ithalat vergisi ve IVA'dan muaftır.</li><li>ABD ve Kanada menşeli 50 ile 117 dolar arası gönderilerde tek oranlı yüzde 17 uygulanır.</li><li>Eşikler USMCA menşeine bağlıdır; belirleyici olan malın nerede üretildiğidir, nereden gönderildiği değil.</li><li>Türkiye USMCA tarafı değildir; Türk menşeli ürün bu eşiklerden yararlanamaz ve USMCA dışı menşe muamelesi görür.</li><li>Kurye rejimi düşük hacimde pratiktir; hacim büyüdükçe toplu ithalat ve tam pedimento birim başına daha ekonomik hâle gelir.</li></ul><h2>De minimis nedir ve Meksika'da eşikler ne?</h2><p>Düşük değerli gönderilerin tam beyan yerine basitleştirilmiş tek oranlı bir rejimle geçmesini sağlayan eşiktir. Meksika'da ABD ve Kanada menşei için 50 ve 117 dolar olmak üzere iki basamak vardır.</p><p>Her ülke düşük değerli gönderiler için kolaylaştırılmış bir gümrük rejimi tanımlar. Gerekçesi pratiktir: 30 dolarlık bir paket için tam pedimento süreci işletmek hem ithalatçıya hem idareye orantısız yük getirir.\n\nMeksika'da bu rejim kurye ve kargo yoluyla gelen gönderiler için işler ve iki basamağı vardır. ABD ve Kanada menşeli mallarda 50 doların altı ithalat vergisi ve IVA'dan muaftır. 50 ile 117 dolar arasında tek oranlı yüzde 17 uygulanır. 117 doların üzerindeki gönderiler bu basitleştirilmiş rejimin dışına çıkar.\n\nBuraya kadarı çoğu rehberde yazan kısım. Şimdi çoğu rehberde yazmayan ve Türk satıcıyı doğrudan ilgilendiren kısma geliyoruz.\n\n<strong>Bu eşikler herkese açık değil.</strong> Meksika bu kolaylığı USMCA çerçevesinde, anlaşma ortaklarına tanıyor. Yani \"117 dolar altı vergisiz\" cümlesi eksik bir cümle; doğrusu \"USMCA menşeli mallarda 117 dolara kadar basitleştirilmiş rejim\"dir. Eksik cümleyle fiyatlama yapan satıcı, farkı gümrükte öğreniyor.</p><h2>Türk satıcı neden bu eşikten yararlanamıyor?</h2><p>Türkiye USMCA tarafı değil ve menşe, malın üretildiği yerdir. ABD deposundan gönderilmesi menşei değiştirmez.</p><p>En pahalı yanılgı burada başlıyor ve mantık zinciri hep aynı kuruluyor: *\"Malım Teksas'taki depoda, oradan gönderiyorum, o hâlde ABD menşeli sayılır.\"*\n\nBu çıkarım yanlış. Gümrük menşei, ürünün nerede <strong>üretildiği</strong> veya esaslı biçimde dönüştürüldüğüyle belirlenir. Türkiye'de üretilmiş bir ürün Laredo'daki depoda altı ay beklese de Meksika gümrüğü açısından Türk menşelidir.\n\nMenşei <strong>değiştirmeyen</strong> işlemler:\n\n- Depolamak\n- Etiketlemek, barkod yapıştırmak\n- Yeniden paketlemek, kutu değiştirmek\n- Setleme, gruplama, poşetleme\n- Kalite kontrolden geçirmek\n\nBunların hiçbiri esaslı dönüşüm sayılmaz. Esaslı dönüşüm, ürünün tarife pozisyonunu değiştirecek düzeyde bir üretim işlemidir; ambalajlama değil.\n\nSonuç net: Türk menşeli ürün ABD deposundan gönderilse bile USMCA dışı menşe muamelesi görür.\n\n<strong>Burada dürüst olmamız gereken bir nokta var.</strong> USMCA dışı menşe için uygulanan tek oranı bu yazıda rakamla vermiyoruz. Bu alan Ağustos 2025'ten bu yana birden fazla kez düzenlendi ve elimizdeki kaynaklar birbiriyle çelişiyor. Size rakam veren ama hangi tarife pozisyonundan ve hangi tarihli düzenlemeden konuştuğunu söylemeyen hiçbir kaynağa güvenmeyin — bizimki dahil. Kendi ürününüzün oranını, kendi tarife pozisyonunuz üzerinden gümrük müşavirinize <strong>yazılı</strong> teyit ettirin.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@600fe49a996fb96ca9739569cc0ff326f84056d9/meksika-de-minimis-2026.svg\" alt=\"Meksika De Minimis 2026: Eşikler, Oranlar Ve Türk Satıcının Gerçek Durumu\"><h2>Kurye rejimi mi, toplu ithalat mı? Artıları ve eksileri</h2><p>Kurye rejimi düşük hacimde hızlı ve basittir ama birim maliyeti yüksektir. Toplu ithalat kurulumu zahmetlidir ama hacim arttıkça belirgin şekilde ucuzlar.</p><p>İki yol var ve seçim hacimle ilgilidir, tercihle değil.\n\n<strong>Kurye rejiminin güçlü yönleri.</strong> Kurulum gerektirmez; ithalatçı sicili, gümrük müşaviri sözleşmesi gibi ön hazırlıklara girmeden başlarsınız. Hızlıdır, sipariş bazlı çalışır, stok yatırımı istemez. Pazarı test etmek veya küçük hacimle başlamak için doğru araçtır.\n\n<strong>Kurye rejiminin zayıf yönleri.</strong> Birim maliyeti yüksektir; her paket kendi taşıma ve işlem masrafını taşır. Ölçeklenmez — sipariş sayısı arttıkça maliyet doğrusal artar, hiçbir kalemi paylaştıramazsınız. Teslim süresi uzundur çünkü her gönderi ayrı bir gümrük işlemidir. Ve iade yönetimi zordur, çünkü her iade ayrı bir uluslararası harekettir.\n\n<strong>Toplu ithalatın güçlü yönleri.</strong> Sabit maliyetler çok sayıda birime dağılır; navlun, müşavirlik ve işlem masrafları birim başına düşer. Mal Meksika içinde stokta durduğu için sipariş geldiğinde teslimat yerel ve hızlı olur. Bu doğrudan Amazon metriklerinize ve satış dönüşümünüze yansır. İade yerelleşir. Ve tercihli menşe belgeniz varsa avantajı toplu olarak kullanırsınız.\n\n<strong>Toplu ithalatın zayıf yönleri.</strong> Kurulum gerekir: RFC'li bir Meksika tüzel kişiliği ya da kayıtlı ithalatçı hizmeti, ithalatçı sicili kaydı, gümrük müşaviri. Peşin stok yatırımı ister ve satılmayan mal Meksika'da kalır. Düzenlemeye tabi kategorilerde izin ve NOM süreçleri baştan çözülmelidir.\n\n<strong>Geçiş noktası nerede?</strong> Genel bir rakam vermek doğru olmaz çünkü ürün değerine, hacmine ve tarife oranına göre değişir. Ama hesabı kendiniz kurabilirsiniz: aylık sipariş adedinizi kurye rejimindeki paket başı toplam maliyetle çarpın, sonra aynı hacmi tek bir toplu sevkiyat olarak fiyatlatıp bölün. İki rakam kesiştiği yer sizin geçiş noktanızdır.</p><h2>Yapmanız gerekenler: adım adım</h2><p>Sınıflandır, oranı yazılı al, rejimi hesapla, değeri doğru beyan et, menşe belgeni hazırla, değişiklikleri takip et.</p><p><strong>1. Ürününüzü sınıflandırın.</strong> Ödeyeceğiniz her şeyi belirleyen tek şey HS kodudur: vergi oranı, izin gerekliliği, NOM zorunluluğu, sektörel sicil şartı. Sınıflandırma yapılmadan verilen hiçbir maliyet tahmini güvenilir değildir.\n\n<strong>2. Oranı yazılı isteyin.</strong> Gümrük müşavirinizden kendi tarife pozisyonunuz için geçerli oranı, dayandığı düzenlemenin tarihiyle birlikte yazılı olarak alın. Sözlü teyit yeterli değil; bu alan değişiyor ve altı ay önceki bilgi bugün geçersiz olabilir.\n\n<strong>3. İki senaryoyu yan yana hesaplayın.</strong> Aynı aylık hacim için kurye rejimi ve toplu ithalat maliyetini ayrı ayrı çıkarın. Kurye tarafında paket başı taşıma, tek oran ve işlem masrafını; toplu tarafta navlun, müşavirlik, ithalat vergisi, IVA, işlem hakkı ve depolamayı toplayıp birime bölün.\n\n<strong>4. Değeri doğru beyan edin.</strong> Eşiğin altında kalmak için değer düşürmek strateji değil, açık risktir. Gümrük idaresi tarife pozisyonuna göre beklenen değer aralıklarını izler; sapma sorgulanır ve işlem değerini ispat yükü ithalatçıdadır. Yakalandığında ödeyeceğiniz fark, kazanmayı umduğunuz farkın çok üstündedir.\n\n<strong>5. Gönderiyi bölmeyin.</strong> Tek siparişi eşiğin altında kalsın diye birden çok pakete bölmek bilinen bir davranıştır ve idare tarafından bilinir. Aynı alıcıya aynı gün giden bölünmüş gönderiler birleştirilerek değerlendirilebilir.\n\n<strong>6. Menşe belgeniz varsa hazır tutun.</strong> Ürününüz gerçekten USMCA menşeli ise bunu geçerli bir menşe beyanıyla belgeleyin. Belgesiz tercih talebi kabul edilmez; \"ABD'den geliyor\" demek yetmez.\n\n<strong>7. Takip edin.</strong> Eşikler ve oranlar Ağustos 2025'ten bu yana birden fazla kez düzenlendi. Yılda bir öğrendiğiniz bilgiyle üç yıl çalışmayın; sevkiyat öncesi teyit alışkanlık hâline gelmeli.</p><h2>Sık yapılan beş hata</h2><p>Sevk yerini menşe sanmak, eşiği herkese açık sanmak, değer düşürmek, gönderi bölmek ve rejimi hacme göre gözden geçirmemek.</p><p><strong>Sevk yerini menşe sanmak.</strong> En yaygını. ABD deposundan çıkmak ABD menşei kazandırmaz.\n\n<strong>Eşiği herkese açık sanmak.</strong> \"117 dolar\" rakamı her yerde dolaşıyor ama menşe koşulu genelde yazılmıyor. Türk satıcı için bu rakam bağlayıcı değil.\n\n<strong>Değer düşürmek.</strong> Kısa vadede kazanç gibi görünür, denetimde fark artırım ve gecikme faiziyle birlikte istenir. Ayrıca ithalatçı geçmişinizi bozar, sonraki sevkiyatlarınız daha sık muayeneye düşer.\n\n<strong>Gönderi bölmek.</strong> Aynı alıcıya giden bölünmüş gönderiler birleştirilerek değerlendirilebilir. Kazanç sanılan şey risk olarak geri döner.\n\n<strong>Rejimi hiç gözden geçirmemek.</strong> Kurye rejimiyle başlayıp hacim on katına çıktığı hâlde aynı şekilde devam etmek, en sessiz ve en büyük maliyet kalemidir. Kimse size \"artık geçmelisiniz\" demez; hesabı kendiniz yapmak zorundasınız.</p><h2>Kurye rejimi ile toplu ithalatın karşılaştırması</h2><table><thead><tr><td>Kriter</td><td>Kurye rejimi</td><td>Toplu ithalat</td></tr></thead><tbody><tr><td>Kurulum</td><td>Gerekmez</td><td>RFC / kayıtlı ithalatçı + sicil + müşavir</td></tr><tr><td>Birim maliyet</td><td>Yüksek, hacimle düşmez</td><td>Hacim arttıkça belirgin düşer</td></tr><tr><td>Teslim süresi</td><td>Uzun, her paket ayrı gümrük</td><td>Kısa, mal Meksika içinde stokta</td></tr><tr><td>Stok yatırımı</td><td>Yok</td><td>Peşin gerekir</td></tr><tr><td>İade yönetimi</td><td>Zor, her iade uluslararası</td><td>Kolay, yerel adres</td></tr><tr><td>Amazon metriklerine etkisi</td><td>Riskli, gümrük gecikmesi yansır</td><td>Öngörülebilir</td></tr><tr><td>Kime uygun</td><td>Test aşaması, düşük hacim</td><td>Düzenli ve büyüyen hacim</td></tr></tbody></table><h2>BringGo Ship bu süreci nasıl yürütüyor?</h2><p>Yukarıdaki kararların hiçbirini tek başınıza vermeniz gerekmiyor. BringGo Ship olarak ürününüzü sınıflandırıyor, kendi lisanslı Meksika gümrük müşavirimizle pedimentoyu ve elektronik değer beyanını düzenliyor, vergiyi ve IVA'yı sizin adınıza hesaplayıp ödüyoruz.</p><p>Kurye rejimi mi toplu ithalat mı sorusunda da tahmin yürütmüyoruz: kendi sipariş adediniz ve birim değeriniz üzerinden iki senaryoyu kalem kalem çıkarıp hangisinin sizin için ucuz olduğunu gösteriyoruz. Teklifimizde navlun, müşavirlik, vergi ve IVA ayrı satırlar hâlinde durur; toplam rakamın arkasında ne olduğunu görürsünüz.</p><p>Meksika'da şirketiniz yoksa sizin adınıza kayıtlı ithalatçı oluyoruz, yani yerel tüzel kişilik kurmadan ithalat yapabiliyorsunuz. Laredo ve Monterrey'deki depolarımızla sınırın iki yakasını da kendimiz tutuyoruz; sınırda kimseye devir yok.</p><p>Ve süreci Türkçe takip edersiniz. Gümrük yazışması İspanyolca yürür, size Türkçe raporlanır.</p><h2>Tanımlar</h2><ul><li><strong>De minimis:</strong> De minimis, düşük değerli gönderilerin tam gümrük beyanı yerine basitleştirilmiş bir rejimle işlem görmesini sağlayan değer eşiğidir.</li><li><strong>Tek oran (tasa global):</strong> Tek oran, kurye rejimindeki gönderilerde ayrı ayrı vergi kalemleri yerine uygulanan birleşik orandır.</li><li><strong>Esaslı dönüşüm:</strong> Esaslı dönüşüm, ürüne menşe kazandıracak düzeydeki üretim değişikliğidir; depolama, etiketleme ve yeniden paketleme bu kapsama girmez.</li><li><strong>Menşe:</strong> Menşe, malın üretildiği veya esaslı biçimde dönüştürüldüğü ülkedir ve gönderinin sevk edildiği yerden bağımsızdır.</li></ul><h2>Sık sorulan sorular</h2><h3>Meksika'da de minimis eşiği kaç dolar?</h3><p>ABD ve Kanada menşeli kurye gönderilerinde 50 doların altı ithalat vergisi ve IVA'dan muaftır; 50 ile 117 dolar arasında tek oranlı yüzde 17 uygulanır. Bu eşikler USMCA menşeine bağlıdır.</p><h3>Türk ürünüm ABD deposundan gidiyorsa de minimis eşiğinden yararlanır mı?</h3><p>Hayır. Eşikler menşee bağlıdır ve menşe malın üretildiği yerdir. Türkiye'de üretilmiş ürün ABD deposunda ne kadar beklerse beklesin Türk menşeli kalır; depolama, etiketleme ve yeniden paketleme menşei değiştirmez.</p><h3>USMCA dışı menşede tek oran kaç?</h3><p>USMCA menşeli gönderilere göre daha yüksek bir oran uygulanır. Bu alan Ağustos 2025'ten bu yana birden fazla kez düzenlendi ve kaynaklar arasında tutarsızlık bulunduğu için burada rakam vermiyoruz. Kendi tarife pozisyonunuz üzerinden gümrük müşavirinize yazılı teyit ettirin.</p><h3>Eşiğin altında kalmak için değeri düşük gösterebilir miyim?</h3><p>Hayır. Gümrük idaresi tarife pozisyonuna göre beklenen değer aralıklarını izler ve sapmayı sorgular; işlem değerini ispat yükü ithalatçıdadır. Denetimde fark, artırım ve gecikme faiziyle birlikte istenir ve ithalatçı geçmişiniz bozulur.</p><h3>Siparişi birden çok pakete bölersem eşiğin altında kalır mıyım?</h3><p>Bu bilinen bir davranıştır ve idare tarafından da bilinir. Aynı alıcıya giden bölünmüş gönderiler birleştirilerek değerlendirilebilir; kazanç sanılan şey risk olarak geri döner.</p><h3>Kurye rejiminden toplu ithalata ne zaman geçmeliyim?</h3><p>Genel bir eşik yoktur çünkü ürün değerine, hacme ve tarife oranına bağlıdır. Aylık sipariş adedinizi kurye rejimindeki paket başı maliyetle çarpıp, aynı hacmin toplu sevkiyat maliyetiyle karşılaştırın; iki rakamın kesiştiği yer geçiş noktanızdır.</p><h3>Toplu ithalat için Meksika'da şirket kurmam şart mı?</h3><p>Şart değil. Kayıtlı ithalatçı hizmeti alarak yerel şirket kurmadan da toplu ithalat yapabilirsiniz; bu durumda bir Meksika tüzel kişiliği sizin adınıza ithalatçı olarak görünür.</p><h3>De minimis eşikleri değişir mi?</h3><p>Evet, ve son dönemde birden fazla kez değişti. Ağustos 2025'ten bu yana düşük değer rejiminde düzenlemeler yapıldı. Sevkiyat öncesi teyit almayı alışkanlık hâline getirin.</p><h2>İlgili Yazılar</h2><ul><li><a href='/tr/blog/meksika-dropshipping-rehberi'>Meksika dropshipping rehberi</a></li><li><a href='/tr/blog/hibrit-dropshipping'>hibrit dropshipping modeli</a></li><li><a href='/tr/blog/meksika-gonderim-maliyeti'>Meksika gönderim maliyeti kalemleri</a></li><li><a href='/tr/blog/abdden-meksikaya-lojistik'>ABD'den Meksika'ya lojistiğin tamamı</a></li><li><a href='/tr/blog/meksika-hs-kodu-bulma'>doğru HS kodunu bulmak</a></li><li><a href='/tr/blog/meksika-gumruk-musaviri-bulma'>gümrük müşaviri nasıl seçilir</a></li></ul><p><a href='https://app.bringgoship.com/register'>Kendi tarife pozisyonunuz üzerinden yazılı oran ve iki rejimin karşılaştırmalı maliyeti: BringGo Ship</a></p><h2>Kaynaklar</h2><ul><li>SAT — Meksika Vergi İdaresi (<a href='https://www.sat.gob.mx'>sat.gob.mx</a>)</li><li>ANAM — Meksika Ulusal Gümrük Ajansı (<a href='https://www.anam.gob.mx'>anam.gob.mx</a>)</li><li>T.C. Ticaret Bakanlığı (<a href='https://www.ticaret.gov.tr'>ticaret.gov.tr</a>)</li></ul><p><em>Not: Bu içerik yalnızca bilgilendirme amaçlıdır ve hukuki, mali veya gümrük danışmanlığı değildir. Vergi oranları ve mevzuat 2026'da sık değişebilir; işlem yapmadan önce resmi kaynaktan (SAT, DOF, CBP) veya lisanslı gümrük müşavirimizden güncel bilgiyi teyit edin.</em></p>",
+     "category": [
+      "Sınır Ötesi Lojistik"
+     ],
+     "tags": [
+      "Meksika de minimis 2026",
+      "Meksika 117 dolar eşiği",
+      "Meksika düşük değerli gönderi vergisi"
+     ],
+     "coverAlt": "Small parcels moving along a customs sorting conveyor in a courier facility, photographic, no text",
+     "metaTitle": "Meksika De Minimis 2026: Eşikler Ve Oranlar",
+     "metaDescription": "Meksika'nın 50 ve 117 dolarlık düşük değer eşikleri USMCA menşeine bağlı. Türk satıcı neden yararlanamıyor, hangi rejimi seçmeli, ne yapmalı.",
+     "keywords": [
+      "Meksika de minimis",
+      "Meksika de minimis 2026",
+      "Meksika 117 dolar eşiği",
+      "Meksika düşük değerli gönderi vergisi"
+     ]
+    }
+   ]
+  }
+ ]
+}
