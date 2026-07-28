@@ -1,0 +1,181 @@
+{
+ "format": "bringgo-blog-import",
+ "version": 1,
+ "categories": [
+  {
+   "key": "crossborder",
+   "tr": "Sınır Ötesi Lojistik",
+   "en": "Cross-Border Logistics",
+   "es": "Logística Transfronteriza"
+  },
+  {
+   "key": "customs",
+   "tr": "Gümrük ve Vergi",
+   "en": "Customs & Duties",
+   "es": "Aduana e Impuestos"
+  },
+  {
+   "key": "amazon",
+   "tr": "Amazon Meksika",
+   "en": "Amazon Mexico",
+   "es": "Amazon México"
+  },
+  {
+   "key": "fulfillment",
+   "tr": "Fulfillment ve Depo",
+   "en": "Warehousing & Fulfillment",
+   "es": "Almacén y Fulfillment"
+  },
+  {
+   "key": "returns",
+   "tr": "İade ve Ters Lojistik",
+   "en": "Returns & Reverse Logistics",
+   "es": "Devoluciones y Logística Inversa"
+  }
+ ],
+ "authors": [
+  {
+   "key": "mert",
+   "initials": "ME",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Mert Erarslan",
+     "role": "E-ticaret ve Meksika Lojistiği",
+     "bio": "Türk satıcılar için ABD Meksika koridorunu ve Amazon Meksika'yı anlatır."
+    }
+   ]
+  },
+  {
+   "key": "sofia",
+   "initials": "SR",
+   "gradient": "from-emerald-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "es",
+     "name": "Sofía Rivera",
+     "role": "Especialista en E-commerce y Amazon México",
+     "bio": "Apoya a vendedores de Amazon México y Mercado Libre con estrategia de fulfillment."
+    }
+   ]
+  },
+  {
+   "key": "james",
+   "initials": "JC",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "en",
+     "name": "James Carter",
+     "role": "Warehousing and Fulfillment Operations",
+     "bio": "Writes on Amazon Mexico and e-commerce fulfillment across the Laredo border."
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "slug": "amazon-meksika-hesap-sagligi",
+   "authorKey": "mert",
+   "coverIcon": "Boxes",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-28T00:00:00Z",
+   "contentUpdatedAt": "2026-07-28T00:00:00Z",
+   "translations": [
+    {
+     "locale": "tr",
+     "title": "Amazon Meksika Hesap Sağlığı: FBM Seçimi Metriklerinizi Nasıl Etkiler?",
+     "excerpt": "FBA'de teslimat metriklerini Amazon taşır. FBM'e geçtiğiniz an hepsi size geçer — ve Meksika'nın sınır ötesi gerçekleri bu metrikleri en zorlayan koşullardan biridir.",
+     "content": "<p>Amazon hesap sağlığı; sipariş kusur oranı (ODR), geç gönderim oranı, sipariş öncesi iptal oranı ve geçerli takip oranı gibi metriklerle ölçülür. FBA'de bu metriklerin teslimat kısmını Amazon üstlenir. FBM'e geçtiğinizde sorumluluk tamamen size geçer. Meksika'ya sınır ötesi gönderim yapan bir FBM satıcısı için en büyük risk gümrükte oluşan gecikmelerin geç gönderim oranına yansımasıdır.</p><img src=\"https://images.pexels.com/photos/4440774/pexels-photo-4440774.jpeg?auto=compress&cs=tinysrgb&w=1200\" alt=\"Amazon Meksika Hesap Sağlığı: FBM Seçimi Metriklerinizi Nasıl Etkiler?\"><ul><li>Sipariş kusur oranının (ODR) yüzde 1'in altında tutulması beklenir; olumsuz geri bildirim, A-to-Z talepleri ve kart itirazları tek bir oranda birleşir.</li><li>Geç gönderim oranı yüzde 4'ün üzerine çıktığında hesap yaptırımı riski doğar.</li><li>Sipariş öncesi iptal oranının yüzde 2,5'in altında kalması beklenir.</li><li>Kendi karşıladığınız siparişlerde geçerli takip oranının yüzde 95 ve üzeri olması beklenir.</li><li>Meksika'da tüketiciye satışta yasal garanti süresi altmış günden az olamaz (Tüketicinin Korunması Kanunu md. 77) ve bu, iade akışınızı doğrudan etkiler.</li></ul><h2>FBM'e geçince tam olarak ne değişiyor?</h2><p>Teslimat performansının sorumluluğu Amazon'dan size geçer. Metrikler aynı kalır ama artık onları siz karşılarsınız.</p><p>FBA'de siparişi Amazon topluyor, paketliyor, gönderiyor ve teslimat gecikmesi yaşandığında sonucu büyük ölçüde Amazon üstleniyor. Sizin sorumluluğunuz stoğu zamanında depoya ulaştırmakla sınırlı.\n\nFBM'de tablo tersine dönüyor. Ürünü siz saklıyor, siz paketliyor, siz gönderiyorsunuz. Kargo gecikirse geç gönderim oranı sizin; müşteri ürünü alamazsa açılan A-to-Z talebi sizin ODR'nize işliyor; takip numarası sisteme düşmezse geçerli takip oranı sizin düşüyor.\n\nBu, FBM'in kötü bir model olduğu anlamına gelmiyor. Depolama ücreti ödemezsiniz, stok kontrolü sizde kalır, uzun kuyrukta bekleyen ürünler için çok daha ekonomiktir. Ama maliyet avantajının karşılığında operasyonel risk üstlenirsiniz.\n\nMeksika özelinde bu riskin adı bellidir: sınır. Ürününüz ABD'den geliyorsa her sipariş bir gümrük işlemine bağlıdır ve gümrükte geçen süre sizin kontrolünüzde değildir. Metrik ise bunu sormaz.</p><h2>Hangi metrik neyi ölçüyor?</h2><p>ODR müşteri memnuniyetsizliğini, geç gönderim ve iptal oranı operasyonel disiplini, geçerli takip oranı ise süreç hijyenini ölçer.</p><p><strong>Sipariş kusur oranı (ODR)</strong> en ağır olanıdır çünkü üç şeyi tek çatı altında toplar: olumsuz geri bildirim, A-to-Z Garanti talepleri ve kredi kartı itirazları. Yüzde 1'in altında tutulması beklenir. Meksika'da sınır ötesi gönderimde bu oranı yükselten en yaygın sebep, müşterinin beklediğinden geç gelen ya da gümrükte takılan pakettir.\n\n<strong>Geç gönderim oranı</strong> vaat ettiğiniz kargoya verme tarihini kaçırdığınız siparişlerin payıdır. Yüzde 4'ü aştığında yaptırım riski doğar. Buradaki en sık hata, teslim süresini iyimser tanımlamaktır: satıcı rekabetçi görünmek için kısa süre yazar, gümrük araya girer, oran bozulur.\n\n<strong>Sipariş öncesi iptal oranı</strong> stoğunuz olmadığı için iptal ettiğiniz siparişleri ölçer ve yüzde 2,5'in altında beklenir. Sınır ötesi çalışan satıcılarda bunun sebebi genelde envanter senkronizasyonudur — Meksika'da satılan ürünün ABD deposunda tükendiğinin geç fark edilmesi.\n\n<strong>Geçerli takip oranı</strong> kendi karşıladığınız siparişlerde takip numarasının doğru ve doğrulanabilir girilmesidir, yüzde 95 ve üzeri beklenir. Meksika'da yerel taşıyıcıya devredilen gönderilerde takip zincirinin kopması sık görülür.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@806263044740642ebec6bacc7ff1fda341796f22/amazon-meksika-hesap-sagligi.svg\" alt=\"Amazon Meksika Hesap Sağlığı: FBM Seçimi Metriklerinizi Nasıl Etkiler?\"><h2>Meksika'da FBM metriklerini nasıl korursunuz?</h2><p>Teslim süresini gerçekçi tanımlayın, stoğu sınırın Meksika tarafında tutun, takip zincirini bütünleyin ve iade adresini yerelleştirin.</p><p><strong>Teslim süresini gerçeğe göre yazın.</strong> Rekabetçi görünmek için kısa süre yazmak kısa vadede tıklama kazandırır, uzun vadede hesabınızı riske atar. Gümrükte geçen süreyi de kapsayan bir pencere tanımlayın.\n\n<strong>Stoğu Meksika tarafında tutun.</strong> FBM'in sınır ötesi versiyonunda her sipariş ayrı bir gümrük işlemine dönüşüyorsa metrikleriniz gümrüğün insafına kalır. Toplu olarak ithal edilip Meksika içinde bir depoda bekleyen stok, siparişi yerel gönderiye dönüştürür. Gecikme riski böylece sınırdan çıkıp iç lojistiğe iner ki orası çok daha öngörülebilirdir.\n\n<strong>Takip zincirini bütünleyin.</strong> ABD tarafındaki taşıyıcıdan Meksika içi taşıyıcıya geçişte takip numarası değişiyorsa, Amazon'un gördüğü numara ölü kalabilir. Geçerli takip oranınız bu yüzden düşer. Sisteme yazdığınız numaranın müşterinin teslimatına kadar izlenebildiğinden emin olun.\n\n<strong>İade adresini yerelleştirin.</strong> Meksikalı müşteriden ABD'ye iade istemek pratikte iadenin gerçekleşmemesi, müşterinin sinirlenmesi ve A-to-Z talebi anlamına gelir. Yerel bir iade adresi ODR'nizi doğrudan korur.\n\n<strong>Yasal çerçeveyi hesaba katın.</strong> Meksika'da garanti süresi kanunen altmış günden az olamaz. İade ve garanti akışınızı bu süreye göre kurmazsanız, uyuşmazlık müşteri hizmetleri sorunundan çıkıp metrik sorununa dönüşür.</p><h2>Metrik sorumluluğu: FBA'de kim, FBM'de kim?</h2><table><thead><tr><td>Metrik</td><td>Beklenen eşik</td><td>FBA'de sorumlu</td><td>FBM'de sorumlu</td></tr></thead><tbody><tr><td>Sipariş kusur oranı (ODR)</td><td>%1'in altında</td><td>Büyük ölçüde Amazon</td><td>Satıcı</td></tr><tr><td>Geç gönderim oranı</td><td>%4'ün altında</td><td>Amazon</td><td>Satıcı</td></tr><tr><td>Sipariş öncesi iptal oranı</td><td>%2,5'in altında</td><td>Satıcı (stok)</td><td>Satıcı</td></tr><tr><td>Geçerli takip oranı</td><td>%95 ve üzeri</td><td>Amazon</td><td>Satıcı</td></tr></tbody></table><h2>Tanımlar</h2><ul><li><strong>ODR (Sipariş kusur oranı):</strong> ODR, olumsuz geri bildirim, A-to-Z Garanti talepleri ve kart itirazlarını tek bir yüzde altında birleştiren ve hesap sağlığının en ağır metriği sayılan orandır.</li><li><strong>Geçerli takip oranı:</strong> Geçerli takip oranı, satıcının karşıladığı siparişlerde doğrulanabilir takip numarası girilen gönderilerin payıdır.</li></ul><h2>Sık sorulan sorular</h2><h3>FBM'de hesap sağlığı riski neden artıyor?</h3><p>Çünkü teslimat performansının sorumluluğu Amazon'dan satıcıya geçer. Geç gönderim, takip numarası bütünlüğü ve iade süreci artık sizin operasyonunuza bağlıdır; metrikler ise aynı eşiklerde ölçülmeye devam eder.</p><h3>ODR'nin eşiği nedir?</h3><p>Yüzde 1'in altında tutulması beklenir. Olumsuz geri bildirim, A-to-Z Garanti talepleri ve kredi kartı itirazları bu tek oranda birleşir.</p><h3>Sınır ötesi FBM yaparken geç gönderim oranımı nasıl korurum?</h3><p>En etkili yol stoğu Meksika tarafında tutmaktır; böylece her sipariş ayrı bir gümrük işlemine bağlı kalmaz. Ayrıca teslim süresini gümrükte geçen süreyi de kapsayacak şekilde gerçekçi tanımlayın.</p><h3>İade adresi Amazon'da neden bu kadar önemli?</h3><p>Meksikalı müşteriden ABD'ye iade istemek pratikte iadenin tamamlanmamasına ve A-to-Z talebine yol açar; bu da doğrudan ODR'nizi yükseltir. Yerel iade adresi bu riski keser.</p><h3>Meksika'da yasal garanti süresi ne kadar?</h3><p>Tüketicinin Korunması Kanunu'nun 77. maddesine göre garanti, malın tesliminden itibaren altmış günden az olamaz. İade ve garanti akışınızı bu asgari süreye göre kurmanız gerekir.</p><p><a href='https://app.bringgoship.com/register'>Meksika tarafında stok ve yerel iade adresiyle FBM metriklerinizi koruyun: BringGo Ship</a></p><h2>Kaynaklar</h2><ul><li>Amazon Seller Central (<a href='https://sellercentral.amazon.com.mx'>sellercentral.amazon.com.mx</a>)</li><li>PROFECO — Tüketicinin Korunması (<a href='https://www.profeco.gob.mx'>profeco.gob.mx</a>)</li></ul><p><em>Not: Bu içerik yalnızca bilgilendirme amaçlıdır ve hukuki, mali veya gümrük danışmanlığı değildir. Vergi oranları ve mevzuat 2026'da sık değişebilir; işlem yapmadan önce resmi kaynaktan (SAT, DOF, CBP) veya lisanslı gümrük müşavirimizden güncel bilgiyi teyit edin.</em></p>",
+     "category": [
+      "Amazon Meksika"
+     ],
+     "tags": [
+      "Amazon FBM hesap sağlığı",
+      "Amazon Meksika ODR"
+     ],
+     "coverAlt": "Seller reviewing performance dashboard metrics on a laptop in a warehouse, photographic, no text",
+     "metaTitle": "Amazon Meksika Hesap Sağlığı Ve FBM Riski 2026",
+     "metaDescription": "FBM'e geçtiğinizde teslimat metrikleri sizin sorumluluğunuza geçer. ODR, geç gönderim, iptal ve takip oranları Meksika'da nasıl korunur.",
+     "keywords": [
+      "Amazon Meksika hesap sağlığı",
+      "Amazon FBM hesap sağlığı",
+      "Amazon Meksika ODR"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "salud-de-cuenta-amazon-mexico",
+   "authorKey": "sofia",
+   "coverIcon": "Truck",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-28T00:00:00Z",
+   "contentUpdatedAt": "2026-07-28T00:00:00Z",
+   "translations": [
+    {
+     "locale": "es",
+     "title": "Salud De Cuenta En Amazon México: Qué Arriesgas Al Vender Con FBM",
+     "excerpt": "Con FBA, Amazon absorbe el desempeño de entrega. Con FBM lo absorbes tú, y en México eso significa asumir el riesgo de la aduana dentro de tus propias métricas.",
+     "content": "<p>La salud de cuenta en Amazon se mide con la tasa de pedidos defectuosos (ODR), la tasa de envíos con retraso, la tasa de cancelación antes del envío y la tasa de seguimiento válido. Con FBA, Amazon asume la parte logística de esas métricas. Con FBM, la asumes tú por completo. Para un vendedor que surte desde Estados Unidos, el riesgo principal es que el tiempo de despacho aduanal se traduzca en envíos tardíos.</p><ul><li>Se espera que la tasa de pedidos defectuosos (ODR) se mantenga por debajo del 1 por ciento; agrupa comentarios negativos, reclamaciones A-to-Z y contracargos.</li><li>Una tasa de envíos con retraso superior al 4 por ciento expone la cuenta a medidas de cumplimiento.</li><li>La tasa de cancelación previa al envío debe mantenerse por debajo del 2.5 por ciento.</li><li>En pedidos surtidos por el vendedor se espera una tasa de seguimiento válido del 95 por ciento o superior.</li><li>El artículo 77 de la Ley Federal de Protección al Consumidor establece que la garantía no puede ser inferior a sesenta días desde la entrega.</li></ul><h2>¿Qué cambia realmente al pasar a FBM?</h2><p>La responsabilidad del desempeño de entrega pasa de Amazon al vendedor. Las métricas no cambian; cambia quién responde por ellas.</p><p>Con FBA, Amazon recoge, empaca y entrega, y absorbe en gran medida las consecuencias de un retraso. Su responsabilidad se limita a que el inventario llegue a tiempo al centro logístico.\n\nCon FBM la situación se invierte. Usted almacena, empaca y envía. Si la paquetería se retrasa, la tasa de envíos tardíos es suya. Si el cliente no recibe el producto y abre una reclamación A-to-Z, impacta su ODR. Si el número de guía no se registra correctamente, su tasa de seguimiento válido baja.\n\nEsto no convierte a FBM en un mal modelo. Evita tarifas de almacenamiento, le deja el control del inventario y resulta mucho más económico para productos de rotación lenta. Pero el ahorro se paga con riesgo operativo.\n\nEn México ese riesgo tiene nombre: la aduana. Si su mercancía cruza desde Estados Unidos pedido por pedido, cada venta depende de un despacho, y el despacho no está bajo su control. La métrica, en cambio, no pregunta de quién fue la culpa.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@806263044740642ebec6bacc7ff1fda341796f22/salud-de-cuenta-amazon-mexico.svg\" alt=\"Salud De Cuenta En Amazon México: Qué Arriesgas Al Vender Con FBM\"><h2>¿Qué mide cada métrica?</h2><p>El ODR mide insatisfacción del cliente; envíos tardíos y cancelaciones miden disciplina operativa; el seguimiento válido mide higiene de proceso.</p><p><strong>Tasa de pedidos defectuosos (ODR).</strong> Es la más grave porque agrupa tres cosas en un solo porcentaje: comentarios negativos, reclamaciones A-to-Z y contracargos. Se espera por debajo del 1 por ciento. En operaciones transfronterizas, la causa más común de deterioro es el paquete que llega después de lo prometido o que se queda detenido en aduana.\n\n<strong>Tasa de envíos con retraso.</strong> Mide los pedidos que no se despacharon en la fecha comprometida. Por encima del 4 por ciento hay riesgo de medidas de cumplimiento. El error más frecuente es definir tiempos de entrega optimistas para parecer competitivo y luego no poder sostenerlos.\n\n<strong>Tasa de cancelación previa al envío.</strong> Mide los pedidos que usted cancela por falta de existencias y debe mantenerse bajo el 2.5 por ciento. En operaciones transfronterizas suele deberse a desincronización de inventario entre lo que se muestra en México y lo que realmente queda en la bodega de origen.\n\n<strong>Tasa de seguimiento válido.</strong> Mide que el número de guía sea correcto y verificable en pedidos surtidos por el vendedor; se espera 95 por ciento o más. En México es habitual que la cadena de rastreo se rompa al entregar la mercancía a la paquetería local.</p><h2>¿Cómo se protegen las métricas en México?</h2><p>Tiempos de entrega realistas, inventario del lado mexicano, cadena de rastreo continua y dirección de devolución local.</p><p><strong>Defina tiempos de entrega realistas.</strong> Prometer plazos cortos gana clics hoy y compromete la cuenta después. Su ventana debe contemplar el despacho aduanal, no sólo el transporte.\n\n<strong>Mantenga inventario del lado mexicano.</strong> Si cada pedido implica un cruce independiente, sus métricas quedan a merced de la aduana. Importar en consolidado y resguardar existencias en una bodega dentro de México convierte cada venta en un envío nacional. El riesgo pasa de la frontera a la logística interna, que es mucho más predecible.\n\n<strong>Cuide la continuidad del rastreo.</strong> Cuando la mercancía cambia de transportista al cruzar, el número que Amazon ve puede quedar inservible y su tasa de seguimiento válido cae. Verifique que la guía registrada se pueda rastrear hasta la entrega final.\n\n<strong>Localice la dirección de devolución.</strong> Pedir a un cliente mexicano que devuelva a Estados Unidos equivale, en la práctica, a que la devolución no ocurra, el cliente se moleste y abra una reclamación A-to-Z. Una dirección local protege su ODR de forma directa.\n\n<strong>Considere el marco legal.</strong> El artículo 77 de la Ley Federal de Protección al Consumidor fija una garantía mínima de sesenta días desde la entrega, y el artículo 92 TER establece una bonificación no menor al veinte por ciento del precio pagado cuando procede. Si su proceso de posventa no contempla esos plazos, el conflicto termina reflejándose en sus métricas.</p><h2>Quién responde por cada métrica</h2><table><thead><tr><td>Métrica</td><td>Umbral esperado</td><td>Con FBA</td><td>Con FBM</td></tr></thead><tbody><tr><td>Pedidos defectuosos (ODR)</td><td>Menos de 1%</td><td>Mayormente Amazon</td><td>Vendedor</td></tr><tr><td>Envíos con retraso</td><td>Menos de 4%</td><td>Amazon</td><td>Vendedor</td></tr><tr><td>Cancelación previa al envío</td><td>Menos de 2.5%</td><td>Vendedor (inventario)</td><td>Vendedor</td></tr><tr><td>Seguimiento válido</td><td>95% o más</td><td>Amazon</td><td>Vendedor</td></tr></tbody></table><h2>Definiciones</h2><ul><li><strong>ODR:</strong> El ODR es la tasa que agrupa comentarios negativos, reclamaciones A-to-Z y contracargos en un solo porcentaje, y es la métrica más determinante de la salud de cuenta.</li><li><strong>Reclamación A-to-Z:</strong> La reclamación A-to-Z es la garantía con la que un comprador de Amazon solicita reembolso cuando no recibe el producto o no corresponde a lo descrito.</li></ul><h2>Preguntas frecuentes</h2><h3>¿Por qué FBM aumenta el riesgo para la salud de cuenta?</h3><p>Porque la responsabilidad del desempeño de entrega pasa de Amazon al vendedor. Los envíos tardíos, la continuidad del rastreo y el proceso de devolución dependen de su operación, mientras los umbrales de medición siguen siendo los mismos.</p><h3>¿Cuál es el umbral del ODR?</h3><p>Se espera mantenerlo por debajo del 1 por ciento. Agrupa comentarios negativos, reclamaciones A-to-Z y contracargos en un solo porcentaje.</p><h3>¿Cómo evito que la aduana afecte mi tasa de envíos tardíos?</h3><p>La forma más eficaz es mantener inventario dentro de México, para que cada pedido no dependa de un cruce independiente. Además, defina tiempos de entrega que contemplen el despacho aduanal.</p><h3>¿Debo tener dirección de devolución en México?</h3><p>Es muy recomendable. Pedir devoluciones a Estados Unidos suele derivar en devoluciones no concretadas y reclamaciones A-to-Z, lo que eleva su ODR de manera directa.</p><h3>¿Cuál es la garantía mínima legal en México?</h3><p>El artículo 77 de la Ley Federal de Protección al Consumidor establece que no puede ser inferior a sesenta días contados desde la entrega del bien.</p><p><a href='https://app.bringgoship.com/register'>Inventario en México y dirección de devolución local para proteger tus métricas: BringGo Ship</a></p><h2>Fuentes</h2><ul><li>Amazon Seller Central México (<a href='https://sellercentral.amazon.com.mx'>sellercentral.amazon.com.mx</a>)</li><li>PROFECO — Ley Federal de Protección al Consumidor (<a href='https://www.profeco.gob.mx'>profeco.gob.mx</a>)</li></ul><p><em>Nota: Este contenido es solo informativo y no constituye asesoría legal, fiscal ni aduanera. Las tarifas y reglas pueden cambiar con frecuencia en 2026; verifica los datos vigentes con una fuente oficial (SAT, DOF, CBP) o con nuestro agente aduanal antes de actuar.</em></p>",
+     "category": [
+      "Sınır Ötesi Lojistik"
+     ],
+     "tags": [
+      "métricas Amazon FBM",
+      "ODR Amazon México"
+     ],
+     "coverAlt": "Warehouse operator scanning parcels with a handheld device, photographic, no text",
+     "metaTitle": "Salud De Cuenta Amazon México: FBM Y Métricas 2026",
+     "metaDescription": "Con FBM las métricas de entrega pasan a ser tuyas. Cómo proteger ODR, tasa de envíos tardíos, cancelaciones y seguimiento válido en México.",
+     "keywords": [
+      "salud de cuenta Amazon México",
+      "métricas Amazon FBM",
+      "ODR Amazon México"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "amazon-mexico-account-health-fbm",
+   "authorKey": "james",
+   "coverIcon": "Truck",
+   "coverImageUrl": null,
+   "status": "draft",
+   "featured": false,
+   "sortOrder": 0,
+   "publishedAt": "2026-07-28T00:00:00Z",
+   "contentUpdatedAt": "2026-07-28T00:00:00Z",
+   "translations": [
+    {
+     "locale": "en",
+     "title": "Amazon Mexico Account Health: What FBM Puts At Risk",
+     "excerpt": "Under FBA, Amazon absorbs delivery performance. Under FBM you absorb it, and for cross-border Mexico orders that means customs dwell time lands inside your own metrics.",
+     "content": "<p>Amazon measures account health through order defect rate (ODR), late shipment rate, pre-fulfilment cancellation rate and valid tracking rate. Under FBA, Amazon carries the delivery side of those metrics. Under FBM, the seller carries all of it. For a US seller fulfilling Mexico orders across the border, the principal exposure is customs dwell time surfacing as late shipments.</p><img src=\"https://images.pexels.com/photos/11087837/pexels-photo-11087837.jpeg?auto=compress&cs=tinysrgb&w=1200\" alt=\"Amazon Mexico Account Health: What FBM Puts At Risk\"><ul><li>Order defect rate is expected to stay below 1 percent; it combines negative feedback, A-to-Z Guarantee claims and chargebacks into a single figure.</li><li>A late shipment rate above 4 percent exposes the account to enforcement.</li><li>Pre-fulfilment cancellation rate is expected to stay below 2.5 percent.</li><li>Valid tracking rate is expected at 95 percent or above on seller-fulfilled orders.</li><li>Mexican consumer law sets a minimum warranty of sixty days from delivery, which shapes the returns flow behind these metrics.</li></ul><h2>What actually transfers when you move to FBM?</h2><p>Responsibility for delivery performance moves from Amazon to you. The thresholds do not change; only who answers for them.</p><p>Under FBA, Amazon picks, packs and delivers, and largely absorbs the consequence of a delay. Your obligation ends when inventory reaches the fulfilment centre on time.\n\nUnder FBM the position reverses. You store, pack and ship. If the carrier runs late, the late shipment rate is yours. If the buyer does not receive the item and files an A-to-Z claim, it lands on your ODR. If the tracking number does not register properly, your valid tracking rate falls.\n\nNone of this makes FBM a bad model. You avoid storage fees, you keep control of inventory, and it is far cheaper for slow-moving SKUs. But the saving is paid for in operational risk.\n\nFor Mexico that risk has a specific shape: the border. If your goods cross order by order, every sale depends on a customs clearance you do not control. The metric does not ask whose fault it was.</p><img src=\"https://cdn.jsdelivr.net/gh/RaacTW/bringgo-blog-gorseller@806263044740642ebec6bacc7ff1fda341796f22/amazon-mexico-account-health-fbm.svg\" alt=\"Amazon Mexico Account Health: What FBM Puts At Risk\"><h2>What does each metric measure?</h2><p>ODR measures buyer dissatisfaction, late shipment and cancellation measure operational discipline, and valid tracking measures process hygiene.</p><p><strong>Order defect rate.</strong> The heaviest metric, because it folds three things into one percentage: negative feedback, A-to-Z Guarantee claims and credit card chargebacks. Expected below 1 percent. On cross-border orders the usual cause of deterioration is a parcel arriving later than promised or sitting in customs.\n\n<strong>Late shipment rate.</strong> The share of orders not dispatched by the date you committed to. Above 4 percent brings enforcement exposure. The most common self-inflicted problem here is an optimistic handling time chosen to look competitive, which then cannot be met once clearance intervenes.\n\n<strong>Pre-fulfilment cancellation rate.</strong> Orders you cancel because you cannot supply them, expected below 2.5 percent. In cross-border operations this usually traces back to inventory synchronisation: stock shown as available in Mexico that has already sold out at origin.\n\n<strong>Valid tracking rate.</strong> Whether seller-fulfilled orders carry a correct, verifiable tracking number, expected at 95 percent or above. Tracking chains commonly break at the handover to a Mexican domestic carrier.</p><h2>How do you protect these metrics on Mexico orders?</h2><p>Set honest handling times, hold stock inside Mexico, keep the tracking chain unbroken, and localise the return address.</p><p><strong>Set handling times you can actually meet.</strong> A short promise wins the click and then costs you the account. Your window has to include clearance, not just transit.\n\n<strong>Hold stock inside Mexico.</strong> If every order triggers its own border crossing, your metrics are hostage to customs. Importing in consolidated batches and holding inventory in a Mexican warehouse turns each sale into a domestic shipment. The risk moves from the border to domestic logistics, which is far more predictable.\n\n<strong>Keep the tracking chain intact.</strong> When the shipment changes carrier at the border, the number Amazon holds can go dead, and your valid tracking rate drops. Confirm that the number you submit remains traceable through to final delivery.\n\n<strong>Localise the return address.</strong> Asking a Mexican buyer to return goods to the United States means, in practice, that the return does not happen, the buyer becomes frustrated, and an A-to-Z claim follows. A local return address protects ODR directly.\n\n<strong>Account for the legal framework.</strong> Mexican consumer law sets a minimum warranty of sixty days from delivery. If your after-sales process does not accommodate that period, a dispute stops being a customer service issue and becomes a metrics issue.</p><h2>Who carries each metric</h2><table><thead><tr><td>Metric</td><td>Expected threshold</td><td>Under FBA</td><td>Under FBM</td></tr></thead><tbody><tr><td>Order defect rate</td><td>Below 1%</td><td>Largely Amazon</td><td>Seller</td></tr><tr><td>Late shipment rate</td><td>Below 4%</td><td>Amazon</td><td>Seller</td></tr><tr><td>Pre-fulfilment cancellation</td><td>Below 2.5%</td><td>Seller (inventory)</td><td>Seller</td></tr><tr><td>Valid tracking rate</td><td>95% or above</td><td>Amazon</td><td>Seller</td></tr></tbody></table><h2>Definitions</h2><ul><li><strong>Order defect rate (ODR):</strong> ODR combines negative feedback, A-to-Z Guarantee claims and chargebacks into a single percentage and is the most consequential account health metric.</li><li><strong>Valid tracking rate:</strong> Valid tracking rate is the share of seller-fulfilled orders carrying a correct and verifiable tracking number.</li></ul><h2>Frequently asked questions</h2><h3>Why does FBM increase account health risk?</h3><p>Because responsibility for delivery performance moves from Amazon to the seller. Late shipments, tracking continuity and the returns process all become yours, while the measurement thresholds stay the same.</p><h3>What is the ODR threshold?</h3><p>Below 1 percent. It combines negative feedback, A-to-Z Guarantee claims and credit card chargebacks into one figure.</p><h3>How do I stop customs delays hitting my late shipment rate?</h3><p>The most effective step is holding inventory inside Mexico so each order does not depend on its own border crossing. Also set handling times that account for clearance rather than transit alone.</p><h3>Do I need a Mexican return address?</h3><p>It is strongly advisable. Requiring returns to the United States typically results in returns that never complete and A-to-Z claims that raise your ODR.</p><h3>Does Mexican law affect my returns policy?</h3><p>Yes. Mexican consumer law sets a minimum warranty of sixty days from delivery, and your after-sales process needs to accommodate that period.</p><p><a href='https://app.bringgoship.com/register'>Hold inventory in Mexico and ship domestically to protect your metrics: BringGo Ship</a></p><h2>Sources</h2><ul><li>Amazon Seller Central (<a href='https://sellercentral.amazon.com'>sellercentral.amazon.com</a>)</li><li>PROFECO — Mexican consumer protection (<a href='https://www.profeco.gob.mx'>profeco.gob.mx</a>)</li></ul><p><em>Note: This content is for general information only and is not legal, tax or customs advice. Rates and rules can change often in 2026; verify the current details with an official source (SAT, DOF, CBP) or our licensed customs broker before acting.</em></p>",
+     "category": [
+      "Sınır Ötesi Lojistik"
+     ],
+     "tags": [
+      "Amazon FBM account health",
+      "Amazon Mexico ODR"
+     ],
+     "coverAlt": "Laptop showing a performance dashboard beside packed parcels, photographic, no text",
+     "metaTitle": "Amazon Mexico Account Health And FBM Risk 2026",
+     "metaDescription": "Switch to FBM and delivery metrics become yours. How ODR, late shipment, cancellation and valid tracking rates behave on cross-border Mexico orders.",
+     "keywords": [
+      "Amazon Mexico account health",
+      "Amazon FBM account health",
+      "Amazon Mexico ODR"
+     ]
+    }
+   ]
+  }
+ ]
+}
