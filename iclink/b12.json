@@ -1,0 +1,117 @@
+{
+ "format": "bringgo-blog-import",
+ "version": 1,
+ "categories": [
+  {
+   "key": "crossborder",
+   "tr": "Sınır Ötesi Lojistik",
+   "en": "Cross-Border Logistics",
+   "es": "Logística Transfronteriza"
+  },
+  {
+   "key": "customs",
+   "tr": "Gümrük ve Vergi",
+   "en": "Customs & Duties",
+   "es": "Aduana e Impuestos"
+  },
+  {
+   "key": "amazon",
+   "tr": "Amazon Meksika",
+   "en": "Amazon Mexico",
+   "es": "Amazon México"
+  },
+  {
+   "key": "fulfillment",
+   "tr": "Fulfillment ve Depo",
+   "en": "Warehousing & Fulfillment",
+   "es": "Almacén y Fulfillment"
+  },
+  {
+   "key": "returns",
+   "tr": "İade ve Ters Lojistik",
+   "en": "Returns & Reverse Logistics",
+   "es": "Devoluciones y Logística Inversa"
+  }
+ ],
+ "authors": [
+  {
+   "key": "daniel",
+   "initials": "DB",
+   "gradient": "from-blue-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "en",
+     "name": "Daniel Brooks",
+     "role": "Logistics and Customs Lead",
+     "bio": "Covers US Mexico cross-border logistics and customs at BringGo Ship, with warehouses in Laredo and Monterrey."
+    }
+   ]
+  },
+  {
+   "key": "carlos",
+   "initials": "CM",
+   "gradient": "from-teal-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "es",
+     "name": "Carlos Mendoza",
+     "role": "Operaciones de Transporte Transfronterizo",
+     "bio": "Dirige operaciones LTL y FTL entre Laredo y Monterrey en BringGo Ship."
+    }
+   ]
+  },
+  {
+   "key": "mert",
+   "initials": "ME",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Mert Erarslan",
+     "role": "E-ticaret ve Meksika Lojistiği",
+     "bio": "Türk satıcılar için ABD Meksika koridorunu ve Amazon Meksika'yı anlatır."
+    }
+   ]
+  },
+  {
+   "key": "muzaffer",
+   "initials": "ma",
+   "gradient": "from-brand-400 to-brand-600",
+   "translations": [
+    {
+     "locale": "tr",
+     "name": "Muzaffer Akın",
+     "role": "Gümrük ve Uyum Uzmanı",
+     "bio": "ABD ve Meksika gümrük ve uyum süreçlerinde Türk satıcılara Türkçe destek verir."
+    }
+   ]
+  },
+  {
+   "key": "james",
+   "initials": "JC",
+   "gradient": "from-brand-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "en",
+     "name": "James Carter",
+     "role": "Warehousing and Fulfillment Operations",
+     "bio": "Writes on Amazon Mexico and e-commerce fulfillment across the Laredo border."
+    }
+   ]
+  },
+  {
+   "key": "sofia",
+   "initials": "SR",
+   "gradient": "from-emerald-400 to-teal-600",
+   "translations": [
+    {
+     "locale": "es",
+     "name": "Sofía Rivera",
+     "role": "Especialista en E-commerce y Amazon México",
+     "bio": "Apoya a vendedores de Amazon México y Mercado Libre con estrategia de fulfillment."
+    }
+   ]
+  }
+ ],
+ "posts": []
+}
