@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="284" viewBox="0 0 720 284" role="img"><title>Parkur Bazında Sorumluluk</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.hdr{fill:#0F6E56}.row{fill:#f5f8f7}.row2{fill:#ffffff}.ln{stroke:#dbe6e1;stroke-width:1}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}
+.th{fill:#ffffff;font-weight:bold}.td{fill:#22332f}.tdb{fill:#0F6E56;font-weight:bold}
+.pill{fill:#E1F5EE}.tp{fill:#0F6E56;font-weight:bold}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1614}.card{fill:#16211e;stroke:#2c3a35}
+.hdr{fill:#12876A}.row{fill:#1d2b27}.row2{fill:#16211e}.ln{stroke:#2c3a35}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}
+.th{fill:#ffffff}.td{fill:#cfe0d9}.tdb{fill:#6fe0b0}
+.pill{fill:#123a2e}.tp{fill:#6fe0b0}}
+</style><rect class="bg" width="720" height="284"/><rect class="pill" x="28" y="20" width="224" height="24" rx="12"/><text class="tp" x="41" y="36" font-size="12">Gümrük ve Vergiler</text><text class="tt" x="28" y="70" font-size="19">Parkur Bazında Sorumluluk</text><rect class="card" x="22" y="82" width="676" height="174" rx="10"/><rect class="hdr" x="22" y="82" width="676" height="42" rx="10"/><rect class="hdr" x="22" y="104" width="676" height="20"/><text class="th" x="32" y="104" font-size="12">Parkur</text><text class="th" x="231" y="104" font-size="12">Nerede</text><text class="th" x="386" y="104" font-size="12">Belgeyi düzenleyen</text><text class="th" x="541" y="104" font-size="12">Eksikse ne olur</text><rect class="row" x="22" y="124" width="676" height="46"/><text class="td" x="32" y="143" font-size="12">ABD iç taşıma</text><text class="td" x="231" y="143" font-size="12">Depodan sınıra</text><text class="td" x="386" y="143" font-size="11">ABD taşıyıcısı, ABD</text><text class="td" x="386" y="157" font-size="11">kuralları</text><text class="td" x="541" y="143" font-size="12">Carta Porte gerekmiyor</text><line class="ln" x1="22" y1="170" x2="698" y2="170"/><rect class="row2" x="22" y="170" width="676" height="46"/><text class="td" x="32" y="189" font-size="12">Sınır geçişi</text><text class="td" x="231" y="189" font-size="12">Köprü</text><text class="td" x="386" y="189" font-size="12">Devir noktası</text><text class="td" x="541" y="189" font-size="11">Belge sonraki parkur için</text><text class="td" x="541" y="203" font-size="11">hazır olmalı</text><line class="ln" x1="22" y1="216" x2="698" y2="216"/><rect class="row" x="22" y="216" width="676" height="34"/><text class="td" x="32" y="235" font-size="12">Meksika ulusal parkur</text><text class="td" x="231" y="235" font-size="12">Sınırdan varışa</text><text class="td" x="386" y="235" font-size="12">Ulusal taşıyıcı</text><text class="td" x="541" y="235" font-size="12">Yük iç yolda durdurulur</text><line class="ln" x1="22" y1="250" x2="698" y2="250"/><text class="ts" x="28" y="272" font-size="10">BringGo Ship · bringgoship.com</text></svg>
