@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="262" viewBox="0 0 720 262" role="img"><title>Depósito fiscal o recinto fiscalizado: la pregunta que ordena la decisión</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}.rd{fill:#fbe9e7}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="262"/><rect x="196" y="16" width="328" height="46" rx="8" class="pill"/>
+<text x="360" y="45" class="tb" font-size="13" text-anchor="middle">¿Vas a operar sobre la mercancía?</text>
+<line x1="360" y1="62" x2="360" y2="80" class="ln"/><line x1="180" y1="80" x2="540" y2="80" class="ln"/>
+<line x1="180" y1="80" x2="180" y2="102" class="ln"/><line x1="540" y1="80" x2="540" y2="102" class="ln"/>
+<text x="262" y="76" class="ts" font-size="12" text-anchor="middle">no</text><text x="458" y="76" class="ts" font-size="12" text-anchor="middle">sí</text>
+<rect x="60" y="102" width="240" height="52" rx="8" class="g"/>
+<text x="180" y="126" class="tw" font-size="14" text-anchor="middle">Depósito fiscal</text>
+<text x="180" y="144" fill="#d9f2e7" font-size="11" text-anchor="middle">guardar y retirar</text>
+<rect x="420" y="102" width="240" height="52" rx="8" class="card"/>
+<text x="540" y="126" class="tt" font-size="13" text-anchor="middle">¿Volumen alto y estable?</text>
+<line x1="540" y1="154" x2="540" y2="165" class="ln"/><line x1="480" y1="165" x2="600" y2="165" class="ln"/><line x1="480" y1="165" x2="480" y2="176" class="ln"/><line x1="600" y1="165" x2="600" y2="176" class="ln"/>
+<rect x="400" y="176" width="160" height="48" rx="8" class="g"/>
+<text x="480" y="198" class="tw" font-size="13" text-anchor="middle">Recinto fiscalizado</text>
+<text x="480" y="215" fill="#d9f2e7" font-size="11" text-anchor="middle">si el volumen aguanta</text>
+<rect x="572" y="176" width="124" height="48" rx="8" class="row"/>
+<text x="634" y="198" class="tt" font-size="12" text-anchor="middle">Almacén frontera</text>
+<text x="634" y="215" class="ts" font-size="11" text-anchor="middle">un ciclo más</text>
+<text x="24" y="250" class="tl" font-size="13">Etiquetar y reempacar no cuenta como operar. Transformar, ensamblar y combinar orígenes sí.</text></svg>

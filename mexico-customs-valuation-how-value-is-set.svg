@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="262" viewBox="0 0 720 262" role="img"><title>What goes into the customs value and what stays out</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}.rd{fill:#fbe9e7}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="262"/><text x="24" y="34" class="tt" font-size="14">Added to the invoice price</text>
+<rect x="24" y="44" width="320" height="30" rx="6" class="g"/><text x="40" y="64" class="tw" font-size="12">Freight to the point of entry</text>
+<rect x="24" y="78" width="320" height="30" rx="6" class="g"/><text x="40" y="98" class="tw" font-size="12">Insurance on that transport</text>
+<rect x="24" y="112" width="320" height="30" rx="6" class="g"/><text x="40" y="132" class="tw" font-size="12">Loading and handling before arrival</text>
+<rect x="24" y="146" width="320" height="30" rx="6" class="g"/><text x="40" y="166" class="tw" font-size="12">Assists: tooling, dies, design</text>
+<rect x="24" y="180" width="320" height="30" rx="6" class="g"/><text x="40" y="200" class="tw" font-size="12">Royalties as a condition of sale</text>
+<text x="376" y="34" class="tt" font-size="14">Stays out, if separately shown</text>
+<rect x="376" y="44" width="320" height="30" rx="6" class="row"/><text x="392" y="64" class="tl" font-size="12">Transport after entry into Mexico</text>
+<rect x="376" y="78" width="320" height="30" rx="6" class="row"/><text x="392" y="98" class="tl" font-size="12">Assembly or maintenance after import</text>
+<rect x="376" y="112" width="320" height="30" rx="6" class="row"/><text x="392" y="132" class="tl" font-size="12">Mexican duties and taxes themselves</text>
+<rect x="376" y="146" width="320" height="30" rx="6" class="row"/><text x="392" y="166" class="tl" font-size="12">Buying commissions</text>
+<rect x="376" y="180" width="320" height="30" rx="6" class="row"/><text x="392" y="200" class="tl" font-size="12">Financing interest, when documented</text>
+<text x="24" y="238" class="tl" font-size="13">One line resolves most questions: costs to get the goods to Mexico are in, costs after arrival are out.</text>
+<text x="24" y="256" class="ts" font-size="12">An item stays out only if the invoice shows it separately.</text></svg>

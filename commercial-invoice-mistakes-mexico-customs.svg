@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="232" viewBox="0 0 720 232" role="img"><title>Four categories of invoice error that stop freight</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}.rd{fill:#fbe9e7}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="232"/><rect x="24" y="20" width="160" height="120" rx="8" class="g"/>
+<text x="104" y="46" class="tw" font-size="13" text-anchor="middle">Description</text>
+<text x="104" y="70" fill="#d9f2e7" font-size="11" text-anchor="middle">Too vague to</text><text x="104" y="86" fill="#d9f2e7" font-size="11" text-anchor="middle">classify</text>
+<text x="104" y="110" fill="#d9f2e7" font-size="11" text-anchor="middle">Docs disagree</text><text x="104" y="126" fill="#d9f2e7" font-size="11" text-anchor="middle">with each other</text>
+<rect x="196" y="20" width="160" height="120" rx="8" class="g"/>
+<text x="276" y="46" class="tw" font-size="13" text-anchor="middle">Value</text>
+<text x="276" y="70" fill="#d9f2e7" font-size="11" text-anchor="middle">Freight or insurance</text><text x="276" y="86" fill="#d9f2e7" font-size="11" text-anchor="middle">left out</text>
+<text x="276" y="110" fill="#d9f2e7" font-size="11" text-anchor="middle">Zero value on</text><text x="276" y="126" fill="#d9f2e7" font-size="11" text-anchor="middle">samples</text>
+<rect x="368" y="20" width="160" height="120" rx="8" class="card"/>
+<text x="448" y="46" class="tt" font-size="13" text-anchor="middle">Terms and origin</text>
+<text x="448" y="70" class="ts" font-size="11" text-anchor="middle">Incoterm missing or</text><text x="448" y="86" class="ts" font-size="11" text-anchor="middle">inconsistent</text>
+<text x="448" y="110" class="ts" font-size="11" text-anchor="middle">Country of origin</text><text x="448" y="126" class="ts" font-size="11" text-anchor="middle">wrong or absent</text>
+<rect x="540" y="20" width="156" height="120" rx="8" class="card"/>
+<text x="618" y="46" class="tt" font-size="13" text-anchor="middle">Administrative</text>
+<text x="618" y="70" class="ts" font-size="11" text-anchor="middle">Consignee does not</text><text x="618" y="86" class="ts" font-size="11" text-anchor="middle">match registration</text>
+<text x="618" y="110" class="ts" font-size="11" text-anchor="middle">No signature, date</text><text x="618" y="126" class="ts" font-size="11" text-anchor="middle">or unique number</text>
+<text x="24" y="176" class="tl" font-size="13">Every one of these is catchable before departure, in a check that takes a few minutes.</text>
+<text x="24" y="200" class="ts" font-size="12">Found at origin it costs an email. Found at the border it costs storage, re-declaration and a missed window.</text></svg>

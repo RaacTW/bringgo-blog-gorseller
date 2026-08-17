@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="244" viewBox="0 0 720 244" role="img"><title>Which Incoterm works: who clears the goods in Mexico</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}.rd{fill:#fbe9e7}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="244"/><rect x="24" y="18" width="672" height="34" rx="6" class="pill"/>
+<text x="40" y="40" class="tb" font-size="12">Term</text><text x="200" y="40" class="tb" font-size="12">Who clears import</text><text x="400" y="40" class="tb" font-size="12">Works when</text>
+<rect x="24" y="56" width="672" height="32" rx="6" class="row"/>
+<text x="40" y="77" class="tl" font-size="12">FCA</text><text x="200" y="77" class="ts" font-size="12">Buyer</text><text x="400" y="77" class="ts" font-size="12">Buyer has Mexican registrations</text>
+<rect x="24" y="92" width="672" height="32" rx="6" class="mut"/>
+<text x="40" y="113" class="tl" font-size="12">CPT / CIP</text><text x="200" y="113" class="ts" font-size="12">Buyer</text><text x="400" y="113" class="ts" font-size="12">Seller arranges carriage only</text>
+<rect x="24" y="128" width="672" height="32" rx="6" class="row"/>
+<text x="40" y="149" class="tl" font-size="12">DAP</text><text x="200" y="149" class="ts" font-size="12">Buyer</text><text x="400" y="149" class="ts" font-size="12">Delivery to a named place</text>
+<rect x="24" y="164" width="672" height="32" rx="6" class="rd"/>
+<text x="40" y="185" class="tl" font-size="12">DDP</text><text x="200" y="185" class="tl" font-size="12">Seller</text><text x="400" y="185" class="tl" font-size="12">Only with a Mexican importing entity</text>
+<text x="24" y="222" class="tl" font-size="13">The test is not which term is most favorable. It is whether each party can perform what it requires.</text>
+<text x="24" y="240" class="ts" font-size="12">DDP is the most common mistake: a US seller without a Mexican entity cannot be the importer of record.</text></svg>
