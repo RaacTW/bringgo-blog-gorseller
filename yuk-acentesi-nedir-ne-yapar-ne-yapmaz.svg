@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="212" viewBox="0 0 720 212" role="img"><title>Kim neyden sorumlu: acente, müşavir ve ithalatçı</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="212"/><rect x="24" y="20" width="212" height="136" rx="8" class="card"/>
+<text x="130" y="46" class="tt" font-size="14" text-anchor="middle">Yük acentesi</text>
+<text x="40" y="72" class="tl" font-size="12">Rota ve taşıyıcı seçimi</text>
+<text x="40" y="94" class="tl" font-size="12">Belge toplama ve kontrol</text>
+<text x="40" y="116" class="tl" font-size="12">Aktarma ve depolama</text>
+<text x="40" y="138" class="tl" font-size="12">Süreç sahipliği</text>
+
+<rect x="254" y="20" width="212" height="136" rx="8" class="card"/>
+<text x="360" y="46" class="tt" font-size="14" text-anchor="middle">Gümrük müşaviri</text>
+<text x="270" y="72" class="tl" font-size="12">Beyanı verir</text>
+<text x="270" y="94" class="tl" font-size="12">Tarife sınıfı görüşü</text>
+<text x="270" y="116" class="tl" font-size="12">İzin ve uygunluk listesi</text>
+<text x="270" y="138" class="tl" font-size="12">Denetimde teknik destek</text>
+
+<rect x="484" y="20" width="212" height="136" rx="8" class="g"/>
+<text x="590" y="46" class="tw" font-size="14" text-anchor="middle">İthalatçı</text>
+<text x="500" y="72" fill="#e6f7ee" font-size="12">Beyanın doğruluğu</text>
+<text x="500" y="94" fill="#e6f7ee" font-size="12">Ürün bilgisi ve değeri</text>
+<text x="500" y="116" fill="#e6f7ee" font-size="12">Etiket ve izin yükümlülüğü</text>
+<text x="500" y="138" fill="#e6f7ee" font-size="12">Kayıtların saklanması</text>
+
+<text x="24" y="192" class="tl" font-size="13">Sağdaki sütun devredilemez. Devredilebilen tek şey, onların zamanında hatırlatılmasıdır.</text></svg>

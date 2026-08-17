@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img"><title>Rejim seçimi: üç soruluk karar akışı</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.mut{fill:#eef1f0}.row{fill:#f5f8f7}.pill{fill:#E1F5EE}
+.g{fill:#12876A}.g2{fill:#1f9d5f}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl{fill:#22332f}
+.tw{fill:#ffffff;font-weight:bold}.tb{fill:#12876A;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+</style><rect class="bg" width="720" height="280"/><rect x="222" y="16" width="276" height="46" rx="8" class="pill"/>
+<text x="360" y="45" class="tb" font-size="13" text-anchor="middle">Mal üzerinde işlem yapacak mısınız?</text>
+<line x1="360" y1="62" x2="360" y2="80" class="ln"/>
+<line x1="152" y1="80" x2="568" y2="80" class="ln"/>
+<line x1="152" y1="80" x2="152" y2="100" class="ln"/>
+<line x1="568" y1="80" x2="568" y2="100" class="ln"/>
+<text x="236" y="76" class="ts" font-size="12" text-anchor="middle">hayır</text>
+<text x="486" y="76" class="ts" font-size="12" text-anchor="middle">evet</text>
+
+<rect x="42" y="100" width="220" height="44" rx="8" class="card"/>
+<text x="152" y="128" class="tl" font-size="13" text-anchor="middle">Hacim düzenli mi?</text>
+<rect x="458" y="100" width="220" height="44" rx="8" class="card"/>
+<text x="568" y="121" class="tl" font-size="12" text-anchor="middle">Hacim yüksek ve</text>
+<text x="568" y="137" class="tl" font-size="12" text-anchor="middle">istikrarlı mı?</text>
+
+<line x1="100" y1="144" x2="100" y2="176" class="ln"/>
+<line x1="212" y1="144" x2="212" y2="176" class="ln"/>
+<line x1="516" y1="144" x2="516" y2="176" class="ln"/>
+<line x1="628" y1="144" x2="628" y2="176" class="ln"/>
+
+<rect x="24" y="176" width="152" height="50" rx="8" class="g"/>
+<text x="100" y="198" class="tw" font-size="13" text-anchor="middle">Antrepo</text>
+<text x="100" y="215" fill="#d9f2e7" font-size="11" text-anchor="middle">düzenli hacimde</text>
+
+<rect x="188" y="176" width="152" height="50" rx="8" class="row"/>
+<text x="264" y="198" class="tt" font-size="13" text-anchor="middle">Sınır deposu</text>
+<text x="264" y="215" class="ts" font-size="11" text-anchor="middle">hacim oturmadıysa</text>
+
+<rect x="440" y="176" width="152" height="50" rx="8" class="g"/>
+<text x="516" y="198" class="tw" font-size="13" text-anchor="middle">Serbest bölge</text>
+<text x="516" y="215" fill="#d9f2e7" font-size="11" text-anchor="middle">yüksek hacimde</text>
+
+<rect x="604" y="176" width="92" height="50" rx="8" class="row"/>
+<text x="650" y="198" class="tt" font-size="12" text-anchor="middle">Sınır deposu</text>
+<text x="650" y="215" class="ts" font-size="11" text-anchor="middle">bir tur daha</text>
+
+<text x="24" y="262" class="tl" font-size="13">Üç sorunun cevabı elinizdeki veriyle verilir: işlem listesi, tarife sınıfı ve aylık hacim.</text></svg>
