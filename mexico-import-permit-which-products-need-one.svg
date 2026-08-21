@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="436" viewBox="0 0 720 436" role="img"><title>Three gates before goods clear Mexican customs</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.row{fill:#f5f8f7}.pill{fill:#E1F5EE}.mut{fill:#eef1f0}
+.acc{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
+.tv{fill:#0F6E56;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
+.tf{fill:#8a9691}.big{fill:#0F3D33;font-weight:bold}
+.trd{fill:#a3392c;font-weight:bold}.tam{fill:#8a5a12;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+@media (prefers-color-scheme:dark){
+.card{fill:#16211e;stroke:#2c3a35}
+.row{fill:#1d2b27}.pill{fill:#123a2e}.mut{fill:#28352f}
+.acc{fill:#2fae7e}.rd{fill:#3a201c}.am{fill:#352a15}.tl{fill:#123a2e}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
+.tv{fill:#6fe0b0}.tw{fill:#ffffff}
+.tf{fill:#6d8279}.big{fill:#d7f2e6}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ln{stroke:#31423c}}
+</style>
+<rect x="1" y="1" width="718" height="434" rx="18" class="card"/>
+<rect x="28" y="26" width="4" height="30" rx="2" class="acc"/>
+<text x="44" y="40" font-size="19" class="tt">Three gates, not one</text>
+<text x="44" y="60" font-size="13" class="ts">Most goods pass freely. These three groups do not.</text>
+
+<rect x="44" y="88" width="632" height="86" rx="10" class="pill"/>
+<text x="60" y="112" font-size="13" class="tv">GATE 1 · Padron de Importadores</text>
+<text x="60" y="132" font-size="12" class="tl2">Applies to: every commercial importer, without exception</text>
+<text x="60" y="152" font-size="11" class="ts">A foreign company cannot hold it. The importer of record is a Mexican entity.</text>
+<text x="646" y="118" font-size="11" class="tf" text-anchor="end">ALL</text>
+
+<rect x="44" y="184" width="632" height="86" rx="10" class="row"/>
+<text x="60" y="208" font-size="13" class="tt">GATE 2 · Prior permit or sanitary authorization</text>
+<text x="60" y="228" font-size="12" class="tl2">Medicines, supplements, cosmetics, food, meat, firearms, fuels</text>
+<text x="60" y="248" font-size="11" class="ts">COFEPRIS · SENASICA · SEDENA · SENER, by product category</text>
+<text x="646" y="214" font-size="11" class="tf" text-anchor="end">REGULATED</text>
+
+<rect x="44" y="280" width="632" height="86" rx="10" class="am"/>
+<text x="60" y="304" font-size="13" class="tam">GATE 3 · Sector registry (Padron Sectorial)</text>
+<text x="60" y="324" font-size="12" class="tl2">Textiles, apparel, footwear, steel, chemicals, electronics, auto parts</text>
+<text x="60" y="344" font-size="11" class="ts">More than 400 tariff items. Not enrolled means not allowed to import.</text>
+<text x="646" y="310" font-size="11" class="tf" text-anchor="end">400+ ITEMS</text>
+
+<rect x="44" y="378" width="632" height="30" rx="7" class="mut"/>
+<text x="60" y="397" font-size="11" class="tl2">A NOM is not a permit. Labeling and safety standards are a separate obligation that travels with the tariff code.</text>
+
+<text x="44" y="424" font-size="10" class="tf">Framework as of August 2026. BringGo Ship · US to Mexico cross border logistics</text>
+</svg>
