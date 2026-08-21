@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430" role="img"><title>Regla Octava agrupa insumos en una sola fraccion exenta</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.row{fill:#f5f8f7}.pill{fill:#E1F5EE}.mut{fill:#eef1f0}
+.acc{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
+.tv{fill:#0F6E56;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
+.tf{fill:#8a9691}.big{fill:#0F3D33;font-weight:bold}
+.trd{fill:#a3392c;font-weight:bold}.tam{fill:#8a5a12;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+@media (prefers-color-scheme:dark){
+.card{fill:#16211e;stroke:#2c3a35}
+.row{fill:#1d2b27}.pill{fill:#123a2e}.mut{fill:#28352f}
+.acc{fill:#2fae7e}.rd{fill:#3a201c}.am{fill:#352a15}.tl{fill:#123a2e}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
+.tv{fill:#6fe0b0}.tw{fill:#ffffff}
+.tf{fill:#6d8279}.big{fill:#d7f2e6}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ln{stroke:#31423c}}
+</style>
+<rect x="1" y="1" width="718" height="428" rx="18" class="card"/>
+<rect x="28" y="26" width="4" height="30" rx="2" class="acc"/>
+<text x="44" y="40" font-size="19" class="tt">Regla Octava: de muchas fracciones a una</text>
+<text x="44" y="60" font-size="13" class="ts">Agrupa insumos de producción en una fracción exenta de arancel</text>
+
+<text x="44" y="94" font-size="11" class="tf">SIN REGLA OCTAVA</text>
+<rect x="44" y="104" width="228" height="34" rx="7" class="row"/>
+<text x="58" y="126" font-size="11" class="tl2">Componente A · fracción propia · arancel</text>
+<rect x="44" y="144" width="228" height="34" rx="7" class="row"/>
+<text x="58" y="166" font-size="11" class="tl2">Componente B · fracción propia · arancel</text>
+<rect x="44" y="184" width="228" height="34" rx="7" class="row"/>
+<text x="58" y="206" font-size="11" class="tl2">Maquinaria · fracción propia · arancel</text>
+<rect x="44" y="224" width="228" height="34" rx="7" class="row"/>
+<text x="58" y="246" font-size="11" class="tl2">Empaque · fracción propia · arancel</text>
+
+<line x1="284" y1="181" x2="330" y2="181" class="ln"/>
+<text x="307" y="172" font-size="11" class="tv" text-anchor="middle">agrupa</text>
+
+<text x="346" y="94" font-size="11" class="tf">CON REGLA OCTAVA</text>
+<rect x="346" y="104" width="330" height="154" rx="10" class="pill"/>
+<text x="511" y="146" font-size="15" class="tv" text-anchor="middle">Partida 98.02</text>
+<text x="511" y="170" font-size="12" class="tl2" text-anchor="middle">una sola fracción, exenta de arancel</text>
+<text x="511" y="196" font-size="11" class="ts" text-anchor="middle">25 fracciones sectoriales</text>
+<text x="511" y="214" font-size="11" class="ts" text-anchor="middle">de la 9802.00.01 a la 9802.00.25</text>
+<text x="511" y="238" font-size="11" class="tf" text-anchor="middle">insumos, partes, maquinaria y empaque</text>
+
+<rect x="44" y="276" width="310" height="76" rx="9" class="tl"/>
+<text x="60" y="298" font-size="12" class="tv">CONVIENE cuando</text>
+<text x="60" y="318" font-size="11" class="tl2">fabrica en México, el sector está en el decreto,</text>
+<text x="60" y="336" font-size="11" class="tl2">y los insumos pagarían arancel por separado</text>
+
+<rect x="366" y="276" width="310" height="76" rx="9" class="rd"/>
+<text x="382" y="298" font-size="12" class="trd">NO CONVIENE cuando</text>
+<text x="382" y="318" font-size="11" class="tl2">solo revende, no tiene PROSEC del sector,</text>
+<text x="382" y="336" font-size="11" class="tl2">o el arancel ya es cero por el T-MEC</text>
+
+<rect x="44" y="362" width="632" height="34" rx="8" class="am"/>
+<text x="60" y="383" font-size="12" class="tam">Requisito de empresa: PROSEC del sector, y Programa IMMEX en importación temporal. Se tramita como permiso previo.</text>
+
+<text x="44" y="418" font-size="10" class="tf">Marco vigente en agosto de 2026. BringGo Ship · logística transfronteriza EEUU-México</text>
+</svg>
