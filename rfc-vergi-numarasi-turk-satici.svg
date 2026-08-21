@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="422" viewBox="0 0 720 422" role="img"><title>Turk satici icin Meksika RFC ve ithalatci yollari</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.row{fill:#f5f8f7}.pill{fill:#E1F5EE}.mut{fill:#eef1f0}
+.acc{fill:#12876A}.rd{fill:#fbe9e7}.am{fill:#fbf1dd}.tl{fill:#E1F5EE}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}.tl2{fill:#22332f}
+.tv{fill:#0F6E56;font-weight:bold}.tw{fill:#ffffff;font-weight:bold}
+.tf{fill:#8a9691}.big{fill:#0F3D33;font-weight:bold}
+.trd{fill:#a3392c;font-weight:bold}.tam{fill:#8a5a12;font-weight:bold}
+.ln{stroke:#dbe6e1;stroke-width:1.5}
+@media (prefers-color-scheme:dark){
+.card{fill:#16211e;stroke:#2c3a35}
+.row{fill:#1d2b27}.pill{fill:#123a2e}.mut{fill:#28352f}
+.acc{fill:#2fae7e}.rd{fill:#3a201c}.am{fill:#352a15}.tl{fill:#123a2e}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}.tl2{fill:#cfe0d9}
+.tv{fill:#6fe0b0}.tw{fill:#ffffff}
+.tf{fill:#6d8279}.big{fill:#d7f2e6}
+.trd{fill:#f0a99e}.tam{fill:#e6c281}.ln{stroke:#31423c}}
+</style>
+<rect x="1" y="1" width="718" height="420" rx="18" class="card"/>
+<rect x="28" y="26" width="4" height="30" rx="2" class="acc"/>
+<text x="44" y="40" font-size="19" class="tt">Türk satıcı için üç yol</text>
+<text x="44" y="60" font-size="13" class="ts">RFC olmadan da satılır, ama bedeli IVA stopajında görünür</text>
+
+<rect x="44" y="88" width="200" height="196" rx="10" class="tl"/>
+<text x="144" y="112" font-size="12" class="tv" text-anchor="middle">MEKSİKALI İTHALATÇI</text>
+<text x="144" y="128" font-size="11" class="tf" text-anchor="middle">üzerinden</text>
+<text x="60" y="156" font-size="11" class="tl2">Kendi RFC'niz</text>
+<text x="228" y="156" font-size="11" class="tv" text-anchor="end">gerekmez</text>
+<text x="60" y="182" font-size="11" class="tl2">İthalatçı</text>
+<text x="228" y="182" font-size="11" class="ts" text-anchor="end">RFC'li MX şirketi</text>
+<text x="60" y="208" font-size="11" class="tl2">IVA stopajı</text>
+<text x="228" y="208" font-size="14" class="tv" text-anchor="end">yok</text>
+<text x="60" y="238" font-size="11" class="ts">Normal ithalat vergileri</text>
+<text x="60" y="256" font-size="11" class="ts">En hızlı ve öngörülebilir</text>
+<text x="60" y="274" font-size="11" class="tf">düşük ve orta hacim için</text>
+
+<rect x="260" y="88" width="200" height="196" rx="10" class="row"/>
+<text x="360" y="112" font-size="12" class="tt" text-anchor="middle">KENDİ RFC KAYDI</text>
+<text x="360" y="128" font-size="11" class="tf" text-anchor="middle">Meksika'da tüzel varlık</text>
+<text x="276" y="156" font-size="11" class="tl2">Kendi RFC'niz</text>
+<text x="444" y="156" font-size="11" class="tt" text-anchor="end">gerekir</text>
+<text x="276" y="182" font-size="11" class="tl2">İthalatçı</text>
+<text x="444" y="182" font-size="11" class="ts" text-anchor="end">kendi şirketiniz</text>
+<text x="276" y="208" font-size="11" class="tl2">IVA stopajı</text>
+<text x="444" y="208" font-size="14" class="tam" text-anchor="end">yüzde 50</text>
+<text x="276" y="238" font-size="11" class="ts">Yerel mali temsilci şart</text>
+<text x="276" y="256" font-size="11" class="ts">CFDI faturalama düzeni</text>
+<text x="276" y="274" font-size="11" class="tf">kalıcı ve büyük giriş için</text>
+
+<rect x="476" y="88" width="200" height="196" rx="10" class="rd"/>
+<text x="576" y="112" font-size="12" class="trd" text-anchor="middle">PLATFORMDA RFC'SİZ</text>
+<text x="576" y="128" font-size="11" class="tf" text-anchor="middle">pazaryeri satışı</text>
+<text x="492" y="156" font-size="11" class="tl2">Kendi RFC'niz</text>
+<text x="660" y="156" font-size="11" class="tv" text-anchor="end">gerekmez</text>
+<text x="492" y="182" font-size="11" class="tl2">İthalatçı</text>
+<text x="660" y="182" font-size="11" class="ts" text-anchor="end">platform zinciri</text>
+<text x="492" y="208" font-size="11" class="tl2">IVA stopajı</text>
+<text x="660" y="208" font-size="14" class="trd" text-anchor="end">yüzde 100</text>
+<text x="492" y="238" font-size="11" class="ts">Satışın IVA'sı peşin kesilir</text>
+<text x="492" y="256" font-size="11" class="ts">Geri alma ayrı süreç</text>
+<text x="492" y="274" font-size="11" class="tf">nakit akışını zorlar</text>
+
+<rect x="44" y="298" width="632" height="46" rx="8" class="mut"/>
+<text x="60" y="318" font-size="12" class="tt">Değişmeyen kural: yabancı şirket Meksika'da kayıt ithalatçısı OLAMAZ</text>
+<text x="60" y="336" font-size="11" class="ts">Pedimento üzerinde yalnızca aktif RFC'li ve Padrón kayıtlı bir Meksika kuruluşu yer alabilir</text>
+
+<rect x="44" y="354" width="632" height="30" rx="7" class="pill"/>
+<text x="60" y="373" font-size="11" class="tv">2026 reformu: beyanın hukuki sorumluluğu doğrudan ithalatçıda, müşavir muafiyeti kalktı</text>
+
+<text x="44" y="410" font-size="10" class="tf">19 Ağustos 2026 itibarıyla geçerli. BringGo Ship · ABD-Meksika sınır ötesi lojistik</text>
+</svg>
