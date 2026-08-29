@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img"><title>Türkiye&#x27;den ABD&#x27;ye Üç Yol</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.hdr{fill:#0F6E56}.row{fill:#f5f8f7}.row2{fill:#ffffff}.ln{stroke:#dbe6e1;stroke-width:1}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}
+.th{fill:#ffffff;font-weight:bold}.td{fill:#22332f}.tdb{fill:#0F6E56;font-weight:bold}
+.pill{fill:#E1F5EE}.tp{fill:#0F6E56;font-weight:bold}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1614}.card{fill:#16211e;stroke:#2c3a35}
+.hdr{fill:#12876A}.row{fill:#1d2b27}.row2{fill:#16211e}.ln{stroke:#2c3a35}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}
+.th{fill:#ffffff}.td{fill:#cfe0d9}.tdb{fill:#6fe0b0}
+.pill{fill:#123a2e}.tp{fill:#6fe0b0}}
+</style>
+<rect class="bg" width="720" height="300"/>
+<rect class="pill" x="28" y="20" width="160" height="24" rx="12"/>
+<text class="tp" x="41" y="36" font-size="12">Sınır Ötesi Lojistik</text>
+<text class="tt" x="28" y="70" font-size="19">Türkiye&#x27;den ABD&#x27;ye Üç Yol</text>
+<rect class="card" x="22" y="82" width="676" height="178" rx="10"/>
+<rect class="hdr" x="22" y="82" width="676" height="42" rx="10"/>
+<rect class="hdr" x="22" y="104" width="676" height="20"/>
+<text class="th" x="32" y="104" font-size="12">Yol</text>
+<text class="th" x="182" y="104" font-size="12">Uygun olduğu durum</text>
+<text class="th" x="472" y="104" font-size="12">Not</text>
+<rect class="row" x="22" y="124" width="676" height="34"/>
+<text class="tdb" x="32" y="145" font-size="12">Hava kargo</text>
+<text class="td" x="182" y="145" font-size="12">Numune, ilk parti, sezon</text>
+<text class="td" x="472" y="145" font-size="12">Hızlı, kilo pahalı</text>
+<line class="ln" x1="22" y1="158" x2="698" y2="158"/>
+<rect class="row2" x="22" y="158" width="676" height="34"/>
+<text class="tdb" x="32" y="179" font-size="12">Deniz FCL</text>
+<text class="td" x="182" y="179" font-size="12">Konteyneri dolduran hacim</text>
+<text class="td" x="472" y="179" font-size="12">Birim maliyet en düşük</text>
+<line class="ln" x1="22" y1="192" x2="698" y2="192"/>
+<rect class="row" x="22" y="192" width="676" height="34"/>
+<text class="tdb" x="32" y="213" font-size="12">Deniz LCL</text>
+<text class="td" x="182" y="213" font-size="12">Konteyner dolmayan hacim</text>
+<text class="td" x="472" y="213" font-size="12">Deniz fiyatı, esnek</text>
+<line class="ln" x1="22" y1="226" x2="698" y2="226"/>
+<rect class="row2" x="22" y="226" width="676" height="34"/>
+<text class="tdb" x="32" y="247" font-size="12">Kurye</text>
+<text class="td" x="182" y="247" font-size="12">Numune ve çok küçük gönderi</text>
+<text class="td" x="472" y="247" font-size="12">Paket başına gümrük</text>
+<text class="ts" x="28" y="286" font-size="10">BringGo Ship · bringgoship.com</text>
+</svg>
