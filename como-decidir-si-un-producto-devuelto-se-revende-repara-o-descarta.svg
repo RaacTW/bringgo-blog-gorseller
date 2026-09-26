@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="266" viewBox="0 0 720 266" role="img"><title>Tres Grupos Donde El Descarte Es La Respuesta</title><style>
+text{font-family:Arial,Helvetica,sans-serif}
+.bg{fill:#ffffff}.card{fill:#ffffff;stroke:#e4ebe7;stroke-width:1.5}
+.hdr{fill:#0F6E56}.row{fill:#f5f8f7}.row2{fill:#ffffff}.ln{stroke:#dbe6e1;stroke-width:1}
+.tt{fill:#0F3D33;font-weight:bold}.ts{fill:#5b6b66}
+.th{fill:#ffffff;font-weight:bold}.td{fill:#22332f}.tdb{fill:#0F6E56;font-weight:bold}
+.pill{fill:#E1F5EE}.tp{fill:#0F6E56;font-weight:bold}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1614}.card{fill:#16211e;stroke:#2c3a35}
+.hdr{fill:#12876A}.row{fill:#1d2b27}.row2{fill:#16211e}.ln{stroke:#2c3a35}
+.tt{fill:#d7f2e6}.ts{fill:#8fa79d}
+.th{fill:#ffffff}.td{fill:#cfe0d9}.tdb{fill:#6fe0b0}
+.pill{fill:#123a2e}.tp{fill:#6fe0b0}}
+</style>
+<rect class="bg" width="720" height="266"/>
+<rect class="pill" x="28" y="20" width="198" height="24" rx="12"/>
+<text class="tp" x="41" y="36" font-size="12">Logística Transfronteriza</text>
+<text class="tt" x="28" y="70" font-size="19">Tres Grupos Donde El Descarte Es La Respuesta</text>
+<rect class="card" x="22" y="82" width="676" height="144" rx="10"/>
+<rect class="hdr" x="22" y="82" width="676" height="42" rx="10"/>
+<rect class="hdr" x="22" y="104" width="676" height="20"/>
+<text class="th" x="32" y="104" font-size="12">Grupo</text>
+<text class="th" x="180" y="104" font-size="12">Cuándo</text>
+<text class="th" x="440" y="104" font-size="12">Nota</text>
+<rect class="row" x="22" y="124" width="676" height="34"/>
+<text class="td" x="32" y="145" font-size="12">Seguridad</text>
+<text class="td" x="180" y="145" font-size="12">Batería inflada o dañada</text>
+<text class="tdb" x="440" y="145" font-size="12">Cuesta muchísimo más que su precio</text>
+<line class="ln" x1="22" y1="158" x2="698" y2="158"/>
+<rect class="row2" x="22" y="158" width="676" height="34"/>
+<text class="td" x="32" y="179" font-size="12">Regulatorio</text>
+<text class="td" x="180" y="179" font-size="12">La normativa impide reintroducir</text>
+<text class="tdb" x="440" y="179" font-size="12">Escribirla como regla de categoría</text>
+<line class="ln" x1="22" y1="192" x2="698" y2="192"/>
+<rect class="row" x="22" y="192" width="676" height="34"/>
+<text class="td" x="32" y="213" font-size="12">Económico</text>
+<text class="td" x="180" y="213" font-size="12">Supera el valor realista de reventa</text>
+<text class="tdb" x="440" y="213" font-size="12">El descarte cierra la pérdida</text>
+<text class="ts" x="28" y="252" font-size="10">BringGo Ship · bringgoship.com</text>
+</svg>
