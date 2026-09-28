@@ -34,8 +34,8 @@ text{font-family:Arial,Helvetica,sans-serif}
 <line class="ln" x1="22" y1="192" x2="698" y2="192"/>
 <rect class="row" x="22" y="192" width="676" height="34"/>
 <text class="td" x="32" y="213" font-size="12">Fixed cost exposure</text>
-<text class="td" x="254" y="213" font-size="12">258.91 pesos per event</text>
-<text class="tdb" x="474" y="213" font-size="12">258.91 pesos, once or twice</text>
+<text class="td" x="254" y="213" font-size="12">462 pesos per event</text>
+<text class="tdb" x="474" y="213" font-size="12">462 pesos, once or twice</text>
 <line class="ln" x1="22" y1="226" x2="698" y2="226"/>
 <rect class="row2" x="22" y="226" width="676" height="34"/>
 <text class="td" x="32" y="247" font-size="12">Delivery to buyer</text>

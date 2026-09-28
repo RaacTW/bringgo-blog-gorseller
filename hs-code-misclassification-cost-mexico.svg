@@ -33,7 +33,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 
 <rect x="284" y="90" width="392" height="46" rx="8" class="row"/>
 <text x="300" y="110" font-size="12" class="tt">1 · Duty rate</text>
-<text x="300" y="128" font-size="11" class="ts">IGI 0 to 25 percent, and the base for any penalty</text>
+<text x="300" y="128" font-size="11" class="ts">IGI 0 to 50 percent or more, and the base for any penalty</text>
 <line x1="268" y1="113" x2="284" y2="113" class="ln"/>
 
 <rect x="284" y="146" width="392" height="46" rx="8" class="row"/>
@@ -53,7 +53,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 
 <rect x="44" y="322" width="632" height="44" rx="8" class="rd"/>
 <text x="60" y="342" font-size="12" class="trd">Penalty for misclassification: 250 to 300 percent of the import duty involved</text>
-<text x="60" y="358" font-size="11" class="ts">Since 1 January 2026 the importer of record carries this liability directly</text>
+<text x="60" y="358" font-size="11" class="ts">Since 1 January 2026 the filing broker answers for it too, not only the importer</text>
 
 <text x="44" y="392" font-size="11" class="tf">Source: Mexico customs law as reformed 19 November 2025, in force 1 January 2026.</text>
 <text x="44" y="408" font-size="10" class="tf">BringGo Ship · US to Mexico cross border logistics</text>

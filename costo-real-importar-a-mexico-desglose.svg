@@ -33,7 +33,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 
 <rect x="44" y="200" width="300" height="58" rx="7" class="pill"/>
 <text x="60" y="221" font-size="12" class="tv">Impuestos</text>
-<text x="60" y="237" font-size="11" class="tl2">IGI 0 a 25% · IVA 16% · DTA 8 al millar</text>
+<text x="60" y="237" font-size="11" class="tl2">IGI 0 a 50% o más · IVA 16% · DTA 8 al millar</text>
 <text x="60" y="252" font-size="10" class="ts">el IVA va sobre valor + IGI + DTA</text>
 
 <rect x="44" y="264" width="300" height="44" rx="7" class="mut"/>
@@ -46,7 +46,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 <text x="400" y="106" font-size="13" class="tt">Lo que mueve el número final</text>
 <circle cx="408" cy="136" r="4" class="acc"/>
 <text x="422" y="140" font-size="12" class="tl2">Arancel cero con T-MEC no elimina</text>
-<text x="422" y="156" font-size="12" class="ts">IVA, DTA ni honorarios.</text>
+<text x="422" y="156" font-size="12" class="ts">IVA ni honorarios.</text>
 
 <circle cx="408" cy="184" r="4" class="acc"/>
 <text x="422" y="188" font-size="12" class="tl2">El almacenaje se cobra por día:</text>
@@ -54,7 +54,7 @@ text{font-family:Arial,Helvetica,sans-serif}
 
 <circle cx="408" cy="232" r="4" class="acc"/>
 <text x="422" y="236" font-size="12" class="tl2">De minimis por tramos, origen</text>
-<text x="422" y="252" font-size="12" class="ts">EEUU o Canadá: 50 libre, 50 a 117 solo IVA.</text>
+<text x="422" y="252" font-size="12" class="ts">EEUU o Canadá: 50 libre, 50 a 117 tasa global 17%.</text>
 
 <circle cx="408" cy="280" r="4" class="acc"/>
 <text x="422" y="284" font-size="12" class="tl2">IVA 8% en franja fronteriza,</text>
