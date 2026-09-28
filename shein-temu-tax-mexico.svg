@@ -39,12 +39,12 @@ text{font-family:Arial,Helvetica,sans-serif}
 <line class="ln" x1="22" y1="226" x2="698" y2="226"/>
 <rect class="row2" x="22" y="226" width="676" height="34"/>
 <text class="td" x="32" y="247" font-size="12">Import IVA</text>
-<text class="tdb" x="246" y="247" font-size="12">16%</text>
-<text class="td" x="522" y="247" font-size="12">16%</text>
+<text class="tdb" x="246" y="247" font-size="12">None to 50 USD, then in flat rate</text>
+<text class="td" x="522" y="247" font-size="12">In the 33.5% flat rate</text>
 <line class="ln" x1="22" y1="260" x2="698" y2="260"/>
 <rect class="row" x="22" y="260" width="676" height="34"/>
 <text class="td" x="32" y="281" font-size="12">Who pays</text>
 <text class="tdb" x="246" y="281" font-size="12">Buyer or importer</text>
 <text class="td" x="522" y="281" font-size="12">Buyer or importer</text>
-<text class="ts" x="28" y="320" font-size="10">Rates as published by the source article for 2026 and pending verification · BringGo Ship</text>
+<text class="ts" x="28" y="320" font-size="10">Source: RGCE 2026 rule 3.7.35 · Ley Aduanera art. 88 bis · BringGo Ship</text>
 </svg>
